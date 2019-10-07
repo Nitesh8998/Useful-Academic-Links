@@ -16,6 +16,8 @@ to see other courses of the faculty.
 ## Table of Contents
 1. [Computer Systems Courses](#computer-systems-courses)
 2. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
+3. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
+3. [Miscellaneous](#miscellaneous)
 
 ### Computer Systems Courses
 
@@ -35,3 +37,17 @@ to see other courses of the faculty.
 2. [CS15-210 CMU Parallel and Sequential Data Structures and Algorithms](http://www.cs.cmu.edu/~15210/)
 3. [Problem Solving Via Object-Oriented Programming](https://www.cs.dartmouth.edu/~scot/cs10/syllabus.html)
     - although seems to be OOPs course has good content wrt Algorithms and Data Structures
+
+### Computer Vision and Image Processing
+
+#### Computer Vision
+1. [CS131 Stanford Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1920/)
+2. [CS231B Standford The Cutting Edge of Computer Vision](http://vision.stanford.edu/teaching/cs231b_spring1415/)
+3. [CS 331: Advanced Reading in Computer Vision](http://vision.stanford.edu/teaching/cs331_winter14/)
+4. [Vision Stanford](http://vision.stanford.edu/teaching.html)
+    - Contains all the course links wrt vision by stanford including some of the above ones(may be old links here!)
+5. [CS4495-OMS GeorgiaTech Computer Vision](https://www.cc.gatech.edu/~afb/classes/CS4495-Spring2015-OMS/)
+
+### Miscellaneous
+1. [CS54N Great Ideas In Computer Science](https://web.stanford.edu/class/cs54n/)
+    - A nice course revisiting the greats and their ideas in computer science.
