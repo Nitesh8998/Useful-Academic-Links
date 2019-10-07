@@ -16,14 +16,14 @@ to see other courses of the faculty.
 4. If you feel a course link is outdated please ~~CUT IT DOWN~~ **don't remove it**.
 
 ## Table of Contents
-1. [Computer Systems Courses](#computer-systems-courses)
+1. [Computer Systems Courses](#computer-systems-and-hardware-courses)
 2. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
 3. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
 4. [Programming](#programming)
 5. [Miscellaneous](#miscellaneous)
 
 
-### Computer Systems Courses
+### Computer Systems and Hardware Courses
 
 #### High Performance Computing/ Parallel Computing 
 1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
@@ -41,13 +41,25 @@ to see other courses of the faculty.
 4. [CSEP548 UW Computer Architecture ](https://courses.cs.washington.edu/courses/csep548/)
 5. [High-Performance Computer Architecture](http://user.engineering.uiowa.edu/~hpca/)
     - Was confused where to group this!
+6. [UCB CS152 Computer Architecture and Engineering
+CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/sp19/)
+7. [INF3 ED Computer Architecture](http://www.inf.ed.ac.uk/teaching/courses/car/)
     
 #### Digital Systems
 1. [6.375 MIT Complex Digital Systems](http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html)
     - Stresses on Bluespec System Verilog!
 2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
 
+#### VLSI Design and FPGA Programming
+1. [ECE 338: UCMB Intermediate Logic Design](http://ece-research.unm.edu/jimp/vhdl_fpgas/index.html)
+    - Stresses on VHDL
+2. [ECE 522: UCMB Hardware/Sofware Codesign with FPGAs](http://ece-research.unm.edu/jimp/codesign/index.html)
+3. [ECE 595: UCMB Advanced VLSI Design](http://ece-research.unm.edu/jimp/vlsi_synthesis/index.html)
 
+#### Hardware Security
+1. [ECE 525: UCMB Hardware-Oriented Security and Trust](http://ece-research.unm.edu/jimp/HOST/index.html)
+
+___
 
 ### Theoretical Computer Science Courses
 
@@ -58,6 +70,8 @@ to see other courses of the faculty.
     - although seems to be OOPs course has good content wrt Algorithms and Data Structures
 4. [CS261 Stanford A Second Course in Algorithms](http://timroughgarden.org/w16/w16.html)
 5. [UChicago Algorithms](https://ttic.uchicago.edu/~avrim/Algo19/)
+
+___
 
 ### Computer Vision and Image Processing
 
@@ -70,7 +84,7 @@ to see other courses of the faculty.
 5. [CS4495-OMS GeorgiaTech Computer Vision](https://www.cc.gatech.edu/~afb/classes/CS4495-Spring2015-OMS/)
 6. [Computer Vision IIT Madras](http://www.cse.iitm.ac.in/~vplab/computer_vision.html)
 
-
+___
 
 ### Programming
 
@@ -84,7 +98,14 @@ to see other courses of the faculty.
 3. [FPGA Student](https://www.fpga4student.com/)
     - A good place for HDL Projects
 
+___
 
 ### Miscellaneous
-1. [CS54N Great Ideas In Computer Science](https://web.stanford.edu/class/cs54n/)
+1. [CS54N Stanford Great Ideas In Computer Science](https://web.stanford.edu/class/cs54n/)
     - A nice course revisiting the greats and their ideas in computer science.
+2. [University of Southern California](http://www-classes.usc.edu/engr/ee-s/)
+    - Its full archive of many courses(mostly before 2010)
+3. [CS61 UCB Great Ideas In Computer Architecture](https://cs61c.org)
+    - A nice course about computer architecture milestones.
+4. [Some UCLA Course Notes](https://github.com/adeshpande3/UCLA-Course-Notes/blob/master/)
+___
