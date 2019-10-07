@@ -19,7 +19,9 @@ to see other courses of the faculty.
 1. [Computer Systems Courses](#computer-systems-courses)
 2. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
 3. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
-3. [Miscellaneous](#miscellaneous)
+4. [Programming](#programming)
+5. [Miscellaneous](#miscellaneous)
+
 
 ### Computer Systems Courses
 
@@ -31,6 +33,21 @@ to see other courses of the faculty.
 5. [CSi-493.65 Hunter College Parallel Computing](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/)
 6. [Texas Parallel Programming in OpenMP and MPI](http://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
 
+#### Computer Architecture
+1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
+    - Contains all the great content one needs to learn computer architecture, memory systems parallel computer architecture ...
+2. [6.823 MIT Computer System Architecture - Spring 2019](http://csg.csail.mit.edu/6.823/lecnotes.html)
+3. [6.S078 - Computer Architecture: A Constructive Approach](http://csg.csail.mit.edu/6.S078/6_S078_2012_www/index.html)
+4. [CSEP548 UW Computer Architecture ](https://courses.cs.washington.edu/courses/csep548/)
+5. [High-Performance Computer Architecture](http://user.engineering.uiowa.edu/~hpca/)
+    - Was confused where to group this!
+    
+#### Digital Systems
+1. [6.375 MIT Complex Digital Systems](http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html)
+    - Stresses on Bluespec System Verilog!
+2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
+
+
 
 ### Theoretical Computer Science Courses
 
@@ -39,6 +56,8 @@ to see other courses of the faculty.
 2. [CS15-210 CMU Parallel and Sequential Data Structures and Algorithms](http://www.cs.cmu.edu/~15210/)
 3. [Problem Solving Via Object-Oriented Programming](https://www.cs.dartmouth.edu/~scot/cs10/syllabus.html)
     - although seems to be OOPs course has good content wrt Algorithms and Data Structures
+4. [CS261 Stanford A Second Course in Algorithms](http://timroughgarden.org/w16/w16.html)
+5. [UChicago Algorithms](https://ttic.uchicago.edu/~avrim/Algo19/)
 
 ### Computer Vision and Image Processing
 
@@ -49,6 +68,22 @@ to see other courses of the faculty.
 4. [Vision Stanford](http://vision.stanford.edu/teaching.html)
     - Contains all the course links wrt vision by stanford including some of the above ones(may be old links here!)
 5. [CS4495-OMS GeorgiaTech Computer Vision](https://www.cc.gatech.edu/~afb/classes/CS4495-Spring2015-OMS/)
+6. [Computer Vision IIT Madras](http://www.cse.iitm.ac.in/~vplab/computer_vision.html)
+
+
+
+### Programming
+
+#### General
+1. [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
+
+#### Functional Languages and HDLs 
+1. [6.827 Multithreaded Parallelism: Languages and Compilers Fall-2006](http://csg.csail.mit.edu/6.827/handouts.html)
+2. [VLSI System Design ](http://beethoven.ee.ncku.edu.tw/testlab/course/VLSIdesign_course/index.htm)
+    - A great course on Verilog, you can always use google translate for the contents page!
+3. [FPGA Student](https://www.fpga4student.com/)
+    - A good place for HDL Projects
+
 
 ### Miscellaneous
 1. [CS54N Great Ideas In Computer Science](https://web.stanford.edu/class/cs54n/)
