@@ -2,7 +2,7 @@
 This repo has some usefull links to websites for topics, please fork add and generate a pull-request to join the party
 
 #### Tips
-Once you visit the link, to venture into more links related to that subject/instructure/university play around with the link ,i.e change the link hierarchy 
+Once you visit the link, to venture into more links related to that subject/instructor/university play around with the link ,i.e change the link hierarchy 
 
 ***eg: http://www.cs.columbia.edu/~martha/courses/4130/au13/ to http://www.cs.columbia.edu/~martha/courses/*** 
 to see other courses of the faculty.
