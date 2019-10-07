@@ -1,5 +1,7 @@
 # Useful-Academic-Links
-This repo has some usefull links to websites for topics, please fork add and generate a pull-request to join the party
+
+#### This repo has some usefull links to websites for topics, please fork, add and generate a pull-request to join the party:tada::smirk:
+#### Show your :heart: for spreading knowledge :sunglasses: :metal:
 
 #### Tips
 Once you visit the link, to venture into more links related to that subject/instructor/university play around with the link ,i.e change the link hierarchy 
@@ -10,7 +12,7 @@ to see other courses of the faculty.
 ## Instructions to add links
 1. Please maintain the heirarchy
 2. Incase you think you have to add a new category please do so in respective heirarchy
-3. If may add a line or two for links discription.
+3. You may add a line or two for links discription.
 4. If you feel a course link is outdated please ~~CUT IT DOWN~~ **don't remove it**.
 
 ## Table of Contents
