@@ -25,6 +25,9 @@ to see other courses of the faculty.
 
 ### Computer Systems and Hardware Courses
 
+#### Computer Organization and Assembly Programming
+1. [A short Guide on x86 Assembly](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
+
 #### High Performance Computing/ Parallel Computing 
 1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
 2. [CS267 UCB Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/)
@@ -59,6 +62,14 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 #### Hardware Security
 1. [ECE 525: UCMB Hardware-Oriented Security and Trust](http://ece-research.unm.edu/jimp/HOST/index.html)
 
+#### Operating Systems
+1. [6.828 MIT Operating Systems Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
+    - Do check out other years of this course.
+2. [CS140: Stanford Operating Systems ](http://www.scs.stanford.edu/19wi-cs140/)
+3. [CS240: Stanford Advanced Topics in Operating Systems](http://www.scs.stanford.edu/17sp-cs240/)
+4. [15-410 CMU Operating System Design and Implementation](https://www.cs.cmu.edu/~410/)
+5. [CS-162 UCB Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
+
 ___
 
 ### Theoretical Computer Science Courses
@@ -71,6 +82,8 @@ ___
 4. [CS261 Stanford A Second Course in Algorithms](http://timroughgarden.org/w16/w16.html)
 5. [UChicago Algorithms](https://ttic.uchicago.edu/~avrim/Algo19/)
 
+#### Compilers
+1. [CS 421/521: Yale Compilers and Interpreters](http://flint.cs.yale.edu/cs421/)
 ___
 
 ### Computer Vision and Image Processing
@@ -97,6 +110,7 @@ ___
     - A great course on Verilog, you can always use google translate for the contents page!
 3. [FPGA Student](https://www.fpga4student.com/)
     - A good place for HDL Projects
+4. [CS240H Stanford Functional Systems in Haskell](http://www.scs.stanford.edu/16wi-cs240h/)
 
 ___
 
