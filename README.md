@@ -17,16 +17,18 @@ to see other courses of the faculty.
 
 ## Table of Contents
 1. [Computer Systems Courses](#computer-systems-and-hardware-courses)
-2. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
-3. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
-4. [Programming](#programming)
-5. [Miscellaneous](#miscellaneous)
+2. [Security and Cryptography](#security-and-cryptogrpahy)
+3. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
+4. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
+5. [Programming](#programming)
+6. [Miscellaneous](#miscellaneous)
 
 
 ### Computer Systems and Hardware Courses
 
 #### Computer Organization and Assembly Programming
 1. [A short Guide on x86 Assembly](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
+2. [Computer Organization and Assembly Language Programming](http://www.taylortjohnson.com/class/cse2312/f14/)
 
 #### High Performance Computing/ Parallel Computing 
 1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
@@ -69,7 +71,23 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [CS240: Stanford Advanced Topics in Operating Systems](http://www.scs.stanford.edu/17sp-cs240/)
 4. [15-410 CMU Operating System Design and Implementation](https://www.cs.cmu.edu/~410/)
 5. [CS-162 UCB Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
+6. [CS3500 IIT Madras Operating Systems](http://www.cse.iitm.ac.in/~chester/courses/16o_os/)
+    - 2015 version of the course has extra topics.
+7. [Many But Finite](https://manybutfinite.com/post/getting-physical-with-memory/)
+    - An awesome blog which give great details on some Systems topics
 
+#### Verification and Testing
+1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
+___
+
+### Security and Cryptography
+
+#### Security
+1. [CS6570 IIT Madras Secure Systems Engineering](http://www.cse.iitm.ac.in/~chester/courses/18o_sse/)
+2. [CS6500 IIT Madras Network Security](http://www.cse.iitm.ac.in/~chester/courses/19e_ns/)
+
+#### Cryptography
+1. [CS6530 IIT Madras Applied Cryptography](http://www.cse.iitm.ac.in/~chester/courses/18e_ac/)
 ___
 
 ### Theoretical Computer Science Courses
