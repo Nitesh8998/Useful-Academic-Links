@@ -18,13 +18,20 @@ to see other courses of the faculty.
 ## Table of Contents
 1. [Computer Systems Courses](#computer-systems-and-hardware-courses)
 2. [Security and Cryptography](#security-and-cryptogrpahy)
-3. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
+3. [Computer Graphics and Design](#computer-graphics-and-design)
 4. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
-5. [Programming](#programming)
-6. [Miscellaneous](#miscellaneous)
+5. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
+6. [Programming](#programming)
+7. [Miscellaneous](#miscellaneous)
 
 
 ### Computer Systems and Hardware Courses
+
+#### Basic
+1. [CMU Introduction to Computer Systems](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/resources.html)
+2. [NAND to Tetris](https://www.nand2tetris.org/)
+    - One awesome course that gives you a taste of everything.
+
 
 #### Computer Organization and Assembly Programming
 1. [A short Guide on x86 Assembly](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
@@ -78,6 +85,11 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 
 #### Verification and Testing
 1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
+
+
+#### Distributed Systems
+1. [15-440 CMU Distributed Systems](http://www.cs.cmu.edu/~srini/15-440-all/2016.Fall/)
+    - [another version](https://web2.qatar.cmu.edu/~mhhammou/15440-f17/index.html)
 ___
 
 ### Security and Cryptography
@@ -89,6 +101,31 @@ ___
 #### Cryptography
 1. [CS6530 IIT Madras Applied Cryptography](http://www.cse.iitm.ac.in/~chester/courses/18e_ac/)
 ___
+
+### Computer Graphics and Design
+
+#### Computer Graphics
+1. [Webgl-Month](https://github.com/lesnitsky/webgl-month)
+2. [Webgl Fundamentals](https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html)
+3. [CS15-462 CMU Computer Graphics](http://15462.courses.cs.cmu.edu/fall2015/)
+4. [CS348K Stanford Visual Computing Systems](http://cs348k.stanford.edu/fall18/)
+    - a nice fusion of Graphics and Vision
+___
+
+### Computer Vision and Image Processing
+
+#### Computer Vision
+1. [CS131 Stanford Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1920/)
+2. [CS231B Standford The Cutting Edge of Computer Vision](http://vision.stanford.edu/teaching/cs231b_spring1415/)
+3. [CS 331: Advanced Reading in Computer Vision](http://vision.stanford.edu/teaching/cs331_winter14/)
+4. [Vision Stanford](http://vision.stanford.edu/teaching.html)
+    - Contains all the course links wrt vision by stanford including some of the above ones(may be old links here!)
+5. [CS4495-OMS GeorgiaTech Computer Vision](https://www.cc.gatech.edu/~afb/classes/CS4495-Spring2015-OMS/)
+6. [Computer Vision IIT Madras](http://www.cse.iitm.ac.in/~vplab/computer_vision.html)
+
+___
+
+
 
 ### Theoretical Computer Science Courses
 
@@ -104,18 +141,6 @@ ___
 1. [CS 421/521: Yale Compilers and Interpreters](http://flint.cs.yale.edu/cs421/)
 ___
 
-### Computer Vision and Image Processing
-
-#### Computer Vision
-1. [CS131 Stanford Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1920/)
-2. [CS231B Standford The Cutting Edge of Computer Vision](http://vision.stanford.edu/teaching/cs231b_spring1415/)
-3. [CS 331: Advanced Reading in Computer Vision](http://vision.stanford.edu/teaching/cs331_winter14/)
-4. [Vision Stanford](http://vision.stanford.edu/teaching.html)
-    - Contains all the course links wrt vision by stanford including some of the above ones(may be old links here!)
-5. [CS4495-OMS GeorgiaTech Computer Vision](https://www.cc.gatech.edu/~afb/classes/CS4495-Spring2015-OMS/)
-6. [Computer Vision IIT Madras](http://www.cse.iitm.ac.in/~vplab/computer_vision.html)
-
-___
 
 ### Programming
 
