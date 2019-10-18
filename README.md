@@ -146,6 +146,15 @@ ___
 
 #### General
 1. [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
+2. [6.370 MIT The Battle Code Programming Competition](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-370-the-battlecode-programming-competition-january-iap-2013/index.htm)
+    - Learn Programming by making an AI game!!
+3. [6.S095 MIT Programming for the Puzzled ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/index.htm)
+4. [CMU CS Academy: CS 0](https://academy.cs.cmu.edu/course/cs0)
+5. [CMU 15-112: Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/index.html)
+6. [CS106A Stanford Programming Methodology](https://see.stanford.edu/Course/CS106A)
+7. [ETH-Zurich Concepts of Object-Oriented Programming](https://www.pm.inf.ethz.ch/education/courses/COOP.html)
+8. [ETH-Zurich Program Verification](https://www.pm.inf.ethz.ch/education/courses/program-verification.html)
+    - A good course on software verification
 
 #### Functional Languages and HDLs 
 1. [6.827 Multithreaded Parallelism: Languages and Compilers Fall-2006](http://csg.csail.mit.edu/6.827/handouts.html)
