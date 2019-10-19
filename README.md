@@ -155,7 +155,11 @@ ___
 7. [ETH-Zurich Concepts of Object-Oriented Programming](https://www.pm.inf.ethz.ch/education/courses/COOP.html)
 8. [ETH-Zurich Program Verification](https://www.pm.inf.ethz.ch/education/courses/program-verification.html)
     - A good course on software verification
-
+9. [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
+    - A 11 year experience of Competitive Programming.
+10. [Learn X in Y minutes](https://learnxinyminutes.com/)
+    - awesome all in one intro to different languages.
+    
 #### Functional Languages and HDLs 
 1. [6.827 Multithreaded Parallelism: Languages and Compilers Fall-2006](http://csg.csail.mit.edu/6.827/handouts.html)
 2. [VLSI System Design ](http://beethoven.ee.ncku.edu.tw/testlab/course/VLSIdesign_course/index.htm)
