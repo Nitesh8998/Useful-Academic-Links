@@ -150,16 +150,18 @@ ___
     - Learn Programming by making an AI game!!
 3. [6.S095 MIT Programming for the Puzzled ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/index.htm)
 4. [CMU CS Academy: CS 0](https://academy.cs.cmu.edu/course/cs0)
-5. [CMU 15-112: Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/index.html)
-6. [CS106A Stanford Programming Methodology](https://see.stanford.edu/Course/CS106A)
-7. [ETH-Zurich Concepts of Object-Oriented Programming](https://www.pm.inf.ethz.ch/education/courses/COOP.html)
-8. [ETH-Zurich Program Verification](https://www.pm.inf.ethz.ch/education/courses/program-verification.html)
+5. [15-295 CMU Competition Programming and Problem Solving](https://contest.cs.cmu.edu/295/f19/)
+6. [CMU 15-112: Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112/index.html)
+7. [CS106A Stanford Programming Methodology](https://see.stanford.edu/Course/CS106A)
+8. [ETH-Zurich Concepts of Object-Oriented Programming](https://www.pm.inf.ethz.ch/education/courses/COOP.html)
+9. [ETH-Zurich Program Verification](https://www.pm.inf.ethz.ch/education/courses/program-verification.html)
     - A good course on software verification
-9. [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
+10. [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
     - A 11 year experience of Competitive Programming.
-10. [Learn X in Y minutes](https://learnxinyminutes.com/)
+11. [Learn X in Y minutes](https://learnxinyminutes.com/)
     - awesome all in one intro to different languages.
-    
+12. [Exercism](https://exercism.io/)
+
 #### Functional Languages and HDLs 
 1. [6.827 Multithreaded Parallelism: Languages and Compilers Fall-2006](http://csg.csail.mit.edu/6.827/handouts.html)
 2. [VLSI System Design ](http://beethoven.ee.ncku.edu.tw/testlab/course/VLSIdesign_course/index.htm)
