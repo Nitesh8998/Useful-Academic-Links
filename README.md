@@ -44,6 +44,7 @@ to see other courses of the faculty.
 4. [GeorgiaTech HPC Course](https://www.cc.gatech.edu/~echow/ipcc/hpc-course/)
 5. [CSi-493.65 Hunter College Parallel Computing](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/)
 6. [Texas Parallel Programming in OpenMP and MPI](http://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
+7. [MPI Tutorials](https://mpitutorial.com)
 
 #### Computer Architecture
 1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
@@ -82,6 +83,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - 2015 version of the course has extra topics.
 7. [Many But Finite](https://manybutfinite.com/post/getting-physical-with-memory/)
     - An awesome blog which give great details on some Systems topics
+8. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
 
 #### Verification and Testing
 1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
