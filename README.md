@@ -31,11 +31,13 @@ to see other courses of the faculty.
 1. [CMU Introduction to Computer Systems](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/resources.html)
 2. [NAND to Tetris](https://www.nand2tetris.org/)
     - One awesome course that gives you a taste of everything.
+3. [Introduction to Computer Science Scientific Perspective](https://www.cs.princeton.edu/courses/archive/fall19/cos126/assignments.html)
 
 
 #### Computer Organization and Assembly Programming
 1. [A short Guide on x86 Assembly](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 2. [Computer Organization and Assembly Language Programming](http://www.taylortjohnson.com/class/cse2312/f14/)
+3. [CS107 Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1202/schedule.html)
 
 #### High Performance Computing/ Parallel Computing 
 1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
@@ -45,6 +47,7 @@ to see other courses of the faculty.
 5. [CSi-493.65 Hunter College Parallel Computing](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/)
 6. [Texas Parallel Programming in OpenMP and MPI](http://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
 7. [MPI Tutorials](https://mpitutorial.com)
+8. [CUDA Workshop](https://people.maths.ox.ac.uk/gilesm/cuda/)
 
 #### Computer Architecture
 1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
