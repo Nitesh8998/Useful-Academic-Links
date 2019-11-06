@@ -144,6 +144,18 @@ ___
 
 #### Compilers
 1. [CS 421/521: Yale Compilers and Interpreters](http://flint.cs.yale.edu/cs421/)
+
+#### Combinatorics
+1. [MIT 18.211 Combinatorial Analysis](http://yufeizhao.com/211/)
+2. [CS103 Mathematical Foundations of Computing](http://web.stanford.edu/class/cs103/)
+
+
+#### Graph Theory
+1. [CMU Graph Theory](http://www.math.cmu.edu/~jmackey/math484/syll_484.html)
+2. [COMS 4203 Columbia Graph Theory](http://www.cs.columbia.edu/~cs4203/course_material.html)
+3. [MIT 18.217 Graph Theory and Additive Combinatorics](http://yufeizhao.com/gtac/)
+4. [CS267 Stanford Graph Algorithms](http://theory.stanford.edu/~virgi/cs267/index.html)
+5. [MIT 6.890 Algorithms for Graphs and Matrices](https://people.csail.mit.edu/virgi/6.890/)
 ___
 
 
