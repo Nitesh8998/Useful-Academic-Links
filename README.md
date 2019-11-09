@@ -48,6 +48,7 @@ to see other courses of the faculty.
 6. [Texas Parallel Programming in OpenMP and MPI](http://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
 7. [MPI Tutorials](https://mpitutorial.com)
 8. [CUDA Workshop](https://people.maths.ox.ac.uk/gilesm/cuda/)
+9. [CS 6868 IIT Madras Concurrent Programming](http://www.cse.iitm.ac.in/~krishna/courses/2018/even-cs6868/)
 
 #### Computer Architecture
 1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
@@ -66,6 +67,12 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - Stresses on Bluespec System Verilog!
 2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
 
+#### Verification and Testing
+1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
+
+#### Embedded Systems
+1. [CSE 4840 Columbia Embedded System Design ](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/)
+
 #### VLSI Design and FPGA Programming
 1. [ECE 338: UCMB Intermediate Logic Design](http://ece-research.unm.edu/jimp/vhdl_fpgas/index.html)
     - Stresses on VHDL
@@ -81,20 +88,32 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 2. [CS140: Stanford Operating Systems ](http://www.scs.stanford.edu/19wi-cs140/)
 3. [CS240: Stanford Advanced Topics in Operating Systems](http://www.scs.stanford.edu/17sp-cs240/)
 4. [15-410 CMU Operating System Design and Implementation](https://www.cs.cmu.edu/~410/)
-5. [CS-162 UCB Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
-6. [CS3500 IIT Madras Operating Systems](http://www.cse.iitm.ac.in/~chester/courses/16o_os/)
+5. [15-412 CMU Operating Systems Practicum](https://www.cs.cmu.edu/~412/)
+6. [CS-162 UCB Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
+7. [CS3500 IIT Madras Operating Systems](http://www.cse.iitm.ac.in/~chester/courses/16o_os/)
     - 2015 version of the course has extra topics.
-7. [Many But Finite](https://manybutfinite.com/post/getting-physical-with-memory/)
+8. [Many But Finite](https://manybutfinite.com/post/getting-physical-with-memory/)
     - An awesome blog which give great details on some Systems topics
-8. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
+9. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
+10. [CS 140 Stanford Operating Systems](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring19/index.php)
+ 
 
-#### Verification and Testing
-1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
+#### Kernel Dev and Device Drivers
+1. [Linux Kernel Development Setup](https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content)
+    - A COMPLETE(I think!) Guide to linux Kernel Development A-Z
+2. [FSU COP5641 Linux Kernel & Device Driver Programming](http://www.cs.uni.edu/~diesburg/courses/dd/syllabus.html)
+3. [EEE G547 BITS Pilani Device Drivers](https://www.bits-pilani.ac.in/pilani/deveshsamaiya/eeeg547)
 
 
 #### Distributed Systems
 1. [15-440 CMU Distributed Systems](http://www.cs.cmu.edu/~srini/15-440-all/2016.Fall/)
     - [another version](https://web2.qatar.cmu.edu/~mhhammou/15440-f17/index.html)
+
+#### Compilers
+1. [CS 421/521: Yale Compilers and Interpreters](http://flint.cs.yale.edu/cs421/)
+2. [CS 411 CMU Compiler Design](https://www.cs.cmu.edu/~janh/courses/411/17/)
+3. [CS3300 IIT Madras Compiler Design](http://www.cse.iitm.ac.in/~krishna/cs3300/)
+4. [CS6013 Moder Compilers Theory and Practice](http://www.cse.iitm.ac.in/~krishna/cs6013/)
 ___
 
 ### Security and Cryptography
@@ -141,9 +160,6 @@ ___
     - although seems to be OOPs course has good content wrt Algorithms and Data Structures
 4. [CS261 Stanford A Second Course in Algorithms](http://timroughgarden.org/w16/w16.html)
 5. [UChicago Algorithms](https://ttic.uchicago.edu/~avrim/Algo19/)
-
-#### Compilers
-1. [CS 421/521: Yale Compilers and Interpreters](http://flint.cs.yale.edu/cs421/)
 
 #### Combinatorics
 1. [MIT 18.211 Combinatorial Analysis](http://yufeizhao.com/211/)
