@@ -95,7 +95,8 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 8. [Many But Finite](https://manybutfinite.com/post/getting-physical-with-memory/)
     - An awesome blog which give great details on some Systems topics
 9. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
-10. [CS 140 Stanford Operating Systems](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring19/index.php)
+10. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+
  
 
 #### Kernel Dev and Device Drivers
