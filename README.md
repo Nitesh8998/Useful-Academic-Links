@@ -51,9 +51,9 @@ to see other courses of the faculty.
 9. [CS 6868 IIT Madras Concurrent Programming](http://www.cse.iitm.ac.in/~krishna/courses/2018/even-cs6868/)
 
 #### Quantum Computing and Quantum Space
-1.[15-859BB CMU Quantum Computation and Quantum Information](http://www.cs.cmu.edu/~odonnell/quantum18/)
-2.[CS 269Q Stanford Quantum Computer Programming](https://cs269q.stanford.edu/)
-3.[219 CalTech Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
+1. [15-859BB CMU Quantum Computation and Quantum Information](http://www.cs.cmu.edu/~odonnell/quantum18/)
+2. [CS 269Q Stanford Quantum Computer Programming](https://cs269q.stanford.edu/)
+3. [219 CalTech Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
 
 #### Computer Architecture
 1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
