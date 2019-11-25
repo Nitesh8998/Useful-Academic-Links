@@ -72,6 +72,12 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - Stresses on Bluespec System Verilog!
 2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
 
+#### Reconfigurable Computing
+1. [ECE636 UMASS Reconfigurable Computing ](http://www.ecs.umass.edu/ece/tessier/courses/636/)
+2. [18-643 CMU Reconfigurable Computing](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-643_course_schedule_fall_2019)
+3. [CS294-3 UCB Reconfigurable Computing](http://www-inst.eecs.berkeley.edu/~cs294-3/sp04/)
+
+
 #### Verification and Testing
 1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
 
