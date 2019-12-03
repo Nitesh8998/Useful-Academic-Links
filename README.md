@@ -11,9 +11,9 @@ to see other courses of the faculty.
 
 ## Instructions to add links
 1. Please maintain the heirarchy
-2. Incase you think you have to add a new category please do so in respective heirarchy
-3. You may add a line or two for links discription.
-4. If you feel a course link is outdated please ~~CUT IT DOWN~~ **don't remove it**.
+1. Incase you think you have to add a new category please do so in respective heirarchy
+1. You may add a line or two for links discription.
+1. If you feel a course link is outdated please ~~CUT IT DOWN~~ **don't remove it**.
 
 ## Table of Contents
 1. [Computer Systems Courses](#computer-systems-and-hardware-courses)
@@ -22,7 +22,7 @@ to see other courses of the faculty.
 4. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
 5. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
 6. [Programming](#programming)
-7. [Miscellaneous](#miscellaneous)
+6. [Miscellaneous](#miscellaneous)
 
 
 ### Computer Systems and Hardware Courses
@@ -49,6 +49,7 @@ to see other courses of the faculty.
 7. [MPI Tutorials](https://mpitutorial.com)
 8. [CUDA Workshop](https://people.maths.ox.ac.uk/gilesm/cuda/)
 9. [CS 6868 IIT Madras Concurrent Programming](http://www.cse.iitm.ac.in/~krishna/courses/2018/even-cs6868/)
+10. [263-2800-00L EthZ Design of Parallel and High-Performance Computing](https://spcl.inf.ethz.ch/Teaching/2019-dphpc/)
 
 #### Quantum Computing and Quantum Space
 1. [15-859BB CMU Quantum Computation and Quantum Information](http://www.cs.cmu.edu/~odonnell/quantum18/)
@@ -96,17 +97,19 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 #### Operating Systems
 1. [6.828 MIT Operating Systems Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
     - Do check out other years of this course.
-2. [CS140: Stanford Operating Systems ](http://www.scs.stanford.edu/19wi-cs140/)
-3. [CS240: Stanford Advanced Topics in Operating Systems](http://www.scs.stanford.edu/17sp-cs240/)
-4. [15-410 CMU Operating System Design and Implementation](https://www.cs.cmu.edu/~410/)
-5. [15-412 CMU Operating Systems Practicum](https://www.cs.cmu.edu/~412/)
-6. [CS-162 UCB Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
-7. [CS3500 IIT Madras Operating Systems](http://www.cse.iitm.ac.in/~chester/courses/16o_os/)
+1. [CS140: Stanford Operating Systems ](http://www.scs.stanford.edu/19wi-cs140/)
+1. [CS240: Stanford Advanced Topics in Operating Systems](http://www.scs.stanford.edu/17sp-cs240/)
+1. [15-410 CMU Operating System Design and Implementation](https://www.cs.cmu.edu/~410/)
+1. [15-412 CMU Operating Systems Practicum](https://www.cs.cmu.edu/~412/)
+1. [15-712 CMU Advanced and Distributed Operating Systems](http://www.cs.cmu.edu/afs/cs/academic/class/15712-f15/www/index.html)
+1. [CS-162 UCB Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
+1. [CS3500 IIT Madras Operating Systems](http://www.cse.iitm.ac.in/~chester/courses/16o_os/)
     - 2015 version of the course has extra topics.
-8. [Many But Finite](https://manybutfinite.com/post/getting-physical-with-memory/)
+1. [Many But Finite](https://manybutfinite.com/post/getting-physical-with-memory/)
     - An awesome blog which give great details on some Systems topics
-9. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
-10. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
+1. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+
 
  
 
@@ -126,9 +129,21 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 2. [CS 411 CMU Compiler Design](https://www.cs.cmu.edu/~janh/courses/411/17/)
 3. [CS3300 IIT Madras Compiler Design](http://www.cse.iitm.ac.in/~krishna/cs3300/)
 4. [CS6013 Moder Compilers Theory and Practice](http://www.cse.iitm.ac.in/~krishna/cs6013/)
+5. [CS 15-745 CMU Optimizing Compilers for Modern Architectures](https://www.cs.cmu.edu/~15745/index.html)
 ___
 
-### Security and Cryptography
+### Networks, Security and Cryptography
+
+#### Networks
+1. [15-441/641 CMU Computer Networks](https://computer-networks.github.io/sp19/index.html)
+1. [CS 144 Stanford](https://cs144.github.io/)
+1. [CS244 CMU Advanced Topics in Networking](http://web.stanford.edu/class/cs244/)
+1. [CSEE 4119 Columbia An Introduction to Computer Networks](https://www.cs.columbia.edu/~hgs/teaching/networks/)
+1. [CS4995-03 Columbia Internet Systems Programming](http://www.cs.columbia.edu/~hgs/teaching/isp/)
+1. [COMS 6181 Columbia Advanced Internet Services](http://www.cs.columbia.edu/6181/)
+1. [COS 461 Princeton Computer Networks](https://www.cs.princeton.edu/courses/archive/spring18/cos461/)
+1. [COS-561 Princeton Advanced Computer Networks](https://www.cs.princeton.edu/courses/archive/fall18/cos561/index.html)
+1. [COS-597E Princeton Software Defined Networking](https://www.cs.princeton.edu/courses/archive/fall13/cos597E/index.html)
 
 #### Security
 1. [CS6570 IIT Madras Secure Systems Engineering](http://www.cse.iitm.ac.in/~chester/courses/18o_sse/)
@@ -206,6 +221,8 @@ ___
 11. [Learn X in Y minutes](https://learnxinyminutes.com/)
     - awesome all in one intro to different languages.
 12. [Exercism](https://exercism.io/)
+13. [ETHZ How to Write Fast Numerical Code](https://acl.inf.ethz.ch/teaching/fastcode/)
+    - [Another Version](http://users.ece.cmu.edu/~pueschel/teaching/18-645-CMU-spring08/course.html)
 
 #### Functional Languages and HDLs 
 1. [6.827 Multithreaded Parallelism: Languages and Compilers Fall-2006](http://csg.csail.mit.edu/6.827/handouts.html)
