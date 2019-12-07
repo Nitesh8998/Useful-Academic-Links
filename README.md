@@ -72,6 +72,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 1. [6.375 MIT Complex Digital Systems](http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html)
     - Stresses on Bluespec System Verilog!
 2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
+2. [6.111 MIT Introductary Digital Systems Lab](http://web.mit.edu/6.111/volume2/www/f2019/index.html)
 
 #### Reconfigurable Computing
 1. [ECE636 UMASS Reconfigurable Computing ](http://www.ecs.umass.edu/ece/tessier/courses/636/)
