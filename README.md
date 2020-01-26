@@ -112,6 +112,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - An awesome blog which give great details on some Systems topics
 1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+1. [CS440 University of Otago Advacned Operating Systems](http://www.cs.otago.ac.nz/cosc440/schedule.php)
 
 
  
