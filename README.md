@@ -19,6 +19,8 @@ to see other courses of the faculty.
 1. [Computer Systems Courses](#computer-systems-and-hardware-courses)
 2. [Security and Cryptography](#security-and-cryptogrpahy)
 3. [Computer Graphics and Design](#computer-graphics-and-design)
+3. [AI and ML](#ai-and-ml)
+3. [Data Science and Analytics](#data-science-and-analytics)
 4. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
 5. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
 6. [Programming](#programming)
@@ -119,6 +121,8 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - A COMPLETE(I think!) Guide to linux Kernel Development A-Z
 2. [FSU COP5641 Linux Kernel & Device Driver Programming](http://www.cs.uni.edu/~diesburg/courses/dd/syllabus.html)
 3. [EEE G547 BITS Pilani Device Drivers](https://www.bits-pilani.ac.in/pilani/deveshsamaiya/eeeg547)
+3. [Embetronics](https://embetronicx.com/tutorials/linux/device-drivers)
+    - A tutorial set for linux device drivers
 
 
 #### Distributed Systems
@@ -162,6 +166,21 @@ ___
 3. [CS15-462 CMU Computer Graphics](http://15462.courses.cs.cmu.edu/fall2015/)
 4. [CS348K Stanford Visual Computing Systems](http://cs348k.stanford.edu/fall18/)
     - a nice fusion of Graphics and Vision
+___
+
+### AI and ML
+
+#### Deep Learning
+1. [CS230 Stanford Deep Learning](https://cs230.stanford.edu/syllabus/)
+1. [MIT Deep Learning](https://deeplearning.mit.edu/)
+
+___
+
+### Data Science and Analytics
+
+#### Big Data
+1. [CS102 Stanford Big Data Tools and Techiniques](https://web.stanford.edu/class/cs102/)
+
 ___
 
 ### Computer Vision and Image Processing
