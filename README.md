@@ -57,6 +57,7 @@ to see other courses of the faculty.
 1. [15-859BB CMU Quantum Computation and Quantum Information](http://www.cs.cmu.edu/~odonnell/quantum18/)
 2. [CS 269Q Stanford Quantum Computer Programming](https://cs269q.stanford.edu/)
 3. [219 CalTech Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
+3. [CS294-66 UCB Quantum Computation](https://people.eecs.berkeley.edu/~vazirani/f19quantum.html)
 
 #### Computer Architecture
 1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
