@@ -175,6 +175,7 @@ ___
 #### Deep Learning
 1. [CS230 Stanford Deep Learning](https://cs230.stanford.edu/syllabus/)
 1. [MIT Deep Learning](https://deeplearning.mit.edu/)
+1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
 
 ___
 
@@ -183,6 +184,12 @@ ___
 #### Big Data
 1. [CS102 Stanford Big Data Tools and Techiniques](https://web.stanford.edu/class/cs102/)
 
+#### Data Mining
+1. [95-791 CMU Data Mining ](http://www.andrew.cmu.edu/user/achoulde/95791/)
+1. [VBM684 Hacettepe University Data Mining](https://web.cs.hacettepe.edu.tr/~ilyas/Courses/VBM684/)
+1. [CS246 Stanford Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
+1. [CS412 Illinois An Introduction to Data Warehousing and Data Mining](https://wiki.illinois.edu/wiki/display/cs412/2.+Course+Syllabus+and+Schedule)
+1. [CS512 Illinois Principles and Algorithms"](https://wiki.illinois.edu/wiki/display/cs512/Home)
 ___
 
 ### Computer Vision and Image Processing
