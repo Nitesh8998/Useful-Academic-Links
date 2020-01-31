@@ -113,7 +113,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - An awesome blog which give great details on some Systems topics
 1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
-1. [CS440 University of Otago Advacned Operating Systems](http://www.cs.otago.ac.nz/cosc440/schedule.php)
+
 
 
  
@@ -125,6 +125,8 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [EEE G547 BITS Pilani Device Drivers](https://www.bits-pilani.ac.in/pilani/deveshsamaiya/eeeg547)
 3. [Embetronics](https://embetronicx.com/tutorials/linux/device-drivers)
     - A tutorial set for linux device drivers
+1. [CS440 University of Otago Advanced Operating Systems](http://www.cs.otago.ac.nz/cosc440/schedule.php)
+    - Seemed to be more on the device drivers side hence the placement here...!
 
 
 #### Distributed Systems
@@ -176,6 +178,7 @@ ___
 1. [CS230 Stanford Deep Learning](https://cs230.stanford.edu/syllabus/)
 1. [MIT Deep Learning](https://deeplearning.mit.edu/)
 1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
+1. [11-785 CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 
 ___
 
