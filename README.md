@@ -114,6 +114,8 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - An awesome blog which give great details on some Systems topics
 1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+1. [CS194-24 UCB Advanced Operating Systems Structures and Implementation](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S14/)
+1.
 
 
 
@@ -122,17 +124,20 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 #### Kernel Dev and Device Drivers
 1. [Linux Kernel Development Setup](https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content)
     - A COMPLETE(I think!) Guide to linux Kernel Development A-Z
-2. [FSU COP5641 Linux Kernel & Device Driver Programming](http://www.cs.uni.edu/~diesburg/courses/dd/syllabus.html)
+2. [FSU COP5641 Linux Kernel & Device Driver Programming](http://ww2.cs.fsu.edu/~stanovic/teaching/ldd_summer_2014/assignments.html)
 3. [EEE G547 BITS Pilani Device Drivers](https://www.bits-pilani.ac.in/pilani/deveshsamaiya/eeeg547)
 3. [Embetronics](https://embetronicx.com/tutorials/linux/device-drivers)
     - A tutorial set for linux device drivers
 1. [CS440 University of Otago Advanced Operating Systems](http://www.cs.otago.ac.nz/cosc440/schedule.php)
     - Seemed to be more on the device drivers side hence the placement here...!
+1. [Linux Systems Topics](https://sysplay.in/)
 
 
-#### Distributed Systems
+#### Computer Systems and Distributed Systems
 1. [15-440 CMU Distributed Systems](http://www.cs.cmu.edu/~srini/15-440-all/2016.Fall/)
     - [another version](https://web2.qatar.cmu.edu/~mhhammou/15440-f17/index.html)
+1. [CS262B UCB Advanced Topics in Computer Systems](https://deculler.github.io/cs262b-sp20/)
+1. [CS262A UCB Advanced Topics in Computer Systems](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F19/index.html)
 
 #### Compilers
 1. [CS 421/521: Yale Compilers and Interpreters](http://flint.cs.yale.edu/cs421/)
