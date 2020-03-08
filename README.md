@@ -17,7 +17,7 @@ to see other courses of the faculty.
 
 ## Table of Contents
 1. [Computer Systems Courses](#computer-systems-and-hardware-courses)
-2. [Security and Cryptography](#security-and-cryptogrpahy)
+2. [Networks, Security and Cryptography](#networks,-security-and-cryptogrpahy)
 3. [Computer Graphics and Design](#computer-graphics-and-design)
 3. [AI and ML](#ai-and-ml)
 3. [Data Science and Analytics](#data-science-and-analytics)
@@ -82,6 +82,11 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 2. [18-643 CMU Reconfigurable Computing](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-643_course_schedule_fall_2019)
 3. [CS294-3 UCB Reconfigurable Computing](http://www-inst.eecs.berkeley.edu/~cs294-3/sp04/)
 
+#### Systems Engineering for AI ML DL ...
+1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
+1. [UCB AI Sys](https://ucbrise.github.io/cs294-ai-sys-sp19/)
+1. [Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)
+1. [CS217 Stanford Hardware Accelerators for Machine Learning ](https://cs217.stanford.edu/)
 
 #### Verification and Testing
 1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
@@ -115,7 +120,6 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 1. [CS194-24 UCB Advanced Operating Systems Structures and Implementation](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S14/)
-1.
 
 
 
@@ -173,7 +177,8 @@ ___
 #### Computer Graphics
 1. [Webgl-Month](https://github.com/lesnitsky/webgl-month)
 2. [Webgl Fundamentals](https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html)
-3. [CS15-462 CMU Computer Graphics](http://15462.courses.cs.cmu.edu/fall2015/)
+2. [Graphics CMU](http://graphics.cs.cmu.edu/?page_id=16)
+    - Complete Graphics Course set CMU
 4. [CS348K Stanford Visual Computing Systems](http://cs348k.stanford.edu/fall18/)
     - a nice fusion of Graphics and Vision
 ___
@@ -183,8 +188,8 @@ ___
 #### Deep Learning
 1. [CS230 Stanford Deep Learning](https://cs230.stanford.edu/syllabus/)
 1. [MIT Deep Learning](https://deeplearning.mit.edu/)
-1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
 1. [11-785 CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
+1. [CS236781 Technion Deep Learning](https://vistalab-technion.github.io/cs236781/lectures/)
 
 ___
 
