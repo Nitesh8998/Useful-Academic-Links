@@ -38,7 +38,8 @@ to see other courses of the faculty.
 
 #### Computer Organization and Assembly Programming
 1. [A short Guide on x86 Assembly](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
-2. [Computer Organization and Assembly Language Programming](http://www.taylortjohnson.com/class/cse2312/f14/)
+2. [UT Arlington Computer Organization and Assembly Language Programming](http://www.taylortjohnson.com/class/cse2312/f14/)
+2. [NTU Computer Organization and Assembly Languages](https://www.csie.ntu.edu.tw/~cyy/courses/assembly/12fall/overview/)
 3. [CS107 Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1202/schedule.html)
 
 #### High Performance Computing/ Parallel Computing 
@@ -76,6 +77,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - Stresses on Bluespec System Verilog!
 2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
 2. [6.111 MIT Introductary Digital Systems Lab](http://web.mit.edu/6.111/volume2/www/f2019/index.html)
+2. [EE108 Stanford Digital Systems 2](https://web.stanford.edu/class/archive/ee/ee108b/ee108b.1082/handouts/)
 
 #### Reconfigurable Computing
 1. [ECE636 UMASS Reconfigurable Computing ](http://www.ecs.umass.edu/ece/tessier/courses/636/)
@@ -266,6 +268,7 @@ ___
 12. [Exercism](https://exercism.io/)
 13. [ETHZ How to Write Fast Numerical Code](https://acl.inf.ethz.ch/teaching/fastcode/)
     - [Another Version](http://users.ece.cmu.edu/~pueschel/teaching/18-645-CMU-spring08/course.html)
+2. [15-123 CMU Effective Programming in C and Unix](http://www.cs.cmu.edu/~guna/15-123S11/)
 
 #### Functional Languages and HDLs 
 1. [6.827 Multithreaded Parallelism: Languages and Compilers Fall-2006](http://csg.csail.mit.edu/6.827/handouts.html)
