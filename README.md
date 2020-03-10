@@ -41,6 +41,8 @@ to see other courses of the faculty.
 2. [UT Arlington Computer Organization and Assembly Language Programming](http://www.taylortjohnson.com/class/cse2312/f14/)
 2. [NTU Computer Organization and Assembly Languages](https://www.csie.ntu.edu.tw/~cyy/courses/assembly/12fall/overview/)
 3. [CS107 Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1202/schedule.html)
+4. [Computer Organization](https://people.cs.clemson.edu/~rlowe/cs2310/notes/)
+    - Has a lot of ARM related stuff
 
 #### High Performance Computing/ Parallel Computing 
 1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
