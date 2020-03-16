@@ -40,7 +40,7 @@ to see other courses of the faculty.
 1. [A short Guide on x86 Assembly](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
 2. [UT Arlington Computer Organization and Assembly Language Programming](http://www.taylortjohnson.com/class/cse2312/f14/)
 2. [NTU Computer Organization and Assembly Languages](https://www.csie.ntu.edu.tw/~cyy/courses/assembly/12fall/overview/)
-3. [CS107 Computer Organization and Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1202/schedule.html)
+3. [CS107 Computer Organization and Systems](https://web.ford.edu/class/archive/cs/cs107/cs107.1202/schedule.html)
 4. [Computer Organization](https://people.cs.clemson.edu/~rlowe/cs2310/notes/)
     - Has a lot of ARM related stuff
 
@@ -214,7 +214,7 @@ ___
 
 #### Computer Vision
 1. [CS131 Stanford Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1920/)
-2. [CS231B Standford The Cutting Edge of Computer Vision](http://vision.stanford.edu/teaching/cs231b_spring1415/)
+2. [CS231B Stanford The Cutting Edge of Computer Vision](http://vision.stanford.edu/teaching/cs231b_spring1415/)
 3. [CS 331: Advanced Reading in Computer Vision](http://vision.stanford.edu/teaching/cs331_winter14/)
 4. [Vision Stanford](http://vision.stanford.edu/teaching.html)
     - Contains all the course links wrt vision by stanford including some of the above ones(may be old links here!)
@@ -290,4 +290,6 @@ ___
 3. [CS61 UCB Great Ideas In Computer Architecture](https://cs61c.org)
     - A nice course about computer architecture milestones.
 4. [Some UCLA Course Notes](https://github.com/adeshpande3/UCLA-Course-Notes/blob/master/)
+1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+    - A very good short course on what every cs student shoulnd know!
 ___
