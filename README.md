@@ -293,3 +293,6 @@ ___
 1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
     - A very good short course on what every cs student shoulnd know!
 ___
+
+### Contributors
+1. [Sinduja](https://github.com/sindu-sss)
