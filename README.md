@@ -22,6 +22,7 @@ to see other courses of the faculty.
 3. [AI and ML](#ai-and-ml)
 3. [Data Science and Analytics](#data-science-and-analytics)
 4. [Computer Vision and Image Processing](#computer-vision-and-image-processing)
+4. [CS In Applied Sciences](#cs-in-applied-sciences)
 5. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
 6. [Programming](#programming)
 6. [Miscellaneous](#miscellaneous)
@@ -224,6 +225,12 @@ ___
 ___
 
 
+### CS In Applied Sciences
+
+1. [CS205 Harvard Computing Foundations of Comuptational Science](http://iacs-courses.seas.harvard.edu/courses/cs205/index.html)
+
+
+___
 
 ### Theoretical Computer Science Courses
 
@@ -285,6 +292,8 @@ ___
 ### Miscellaneous
 1. [CS54N Stanford Great Ideas In Computer Science](https://web.stanford.edu/class/cs54n/)
     - A nice course revisiting the greats and their ideas in computer science.
+1. [Stanford CS Course](https://cs.stanford.edu/academics/courses)
+    - List of CS courses with respective course websites for each quarter
 2. [University of Southern California](http://www-classes.usc.edu/engr/ee-s/)
     - Its full archive of many courses(mostly before 2010)
 3. [CS61 UCB Great Ideas In Computer Architecture](https://cs61c.org)
