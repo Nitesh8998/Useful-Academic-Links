@@ -1,0 +1,447 @@
+= Useful-Academic-Links
+
+==== This repo has some usefull links to websites for topics, please fork, add
+and generate a pull-request to join the party:tada::smirk:
+
+==== Show your :heart: for spreading knowledge :sunglasses: :metal:
+
+==== Tips
+
+Once you visit the link, to venture into more links related to that
+subject/instructor/university play around with the link ,i.e change the link
+hierarchy
+
+*_eg: http://www.cs.columbia.edu/~martha/courses/4130/au13/ to
+http://www.cs.columbia.edu/~martha/courses/_* to see other courses of the
+faculty.
+
+== Instructions to add links
+
+1.  Please maintain the heirarchy
+2.  Incase you think you have to add a new category please do so in respective
+heirarchy
+3.  You may add a line or two for links discription.
+4.  If you feel a course link is outdated please [line-through]*CUT IT DOWN*
+*don’t remove it*.
+
+== Table of Contents
+
+1.  link:#computer-systems-and-hardware-courses[Computer Systems Courses]
+2.  link:#networks,-security-and-cryptogrpahy[Networks, Security and
+Cryptography]
+3.  link:#computer-graphics-and-design[Computer Graphics and Design]
+4.  link:#ai-and-ml[AI and ML]
+5.  link:#data-science-and-analytics[Data Science and Analytics]
+6.  link:#computer-vision-and-image-processing[Computer Vision and Image
+Processing]
+7.  link:#cs-in-applied-sciences[CS In Applied Sciences]
+8.  link:#theoretical-computer-science-courses[Theoretical Computer Science
+Courses]
+9.  link:#programming[Programming]
+10. link:#miscellaneous[Miscellaneous]
+
+=== Computer Systems and Hardware Courses
+
+==== Basic
+
+1.  http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/resources.html[CMU
+Introduction to Computer Systems]
+2.  https://www.nand2tetris.org/[NAND to Tetris]
+* One awesome course that gives you a taste of everything.
+3.  https://www.cs.princeton.edu/courses/archive/fall19/cos126/assignments.html[Introduction
+to Computer Science Scientific Perspective]
+
+==== Computer Organization and Assembly Programming
+
+1.  http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html[A short Guide on x86
+Assembly]
+2.  http://www.taylortjohnson.com/class/cse2312/f14/[UT Arlington Computer
+Organization and Assembly Language Programming]
+3.  https://www.csie.ntu.edu.tw/~cyy/courses/assembly/12fall/overview/[NTU
+Computer Organization and Assembly Languages]
+4.  https://web.ford.edu/class/archive/cs/cs107/cs107.1202/schedule.html[CS107
+Computer Organization and Systems]
+5.  https://people.cs.clemson.edu/~rlowe/cs2310/notes/[Computer Organization]
+* Has a lot of ARM related stuff
+
+==== High Performance Computing/ Parallel Computing
+
+1.  http://15418.courses.cs.cmu.edu/spring2017/[CS15-418 CMU Parallel Computer
+Architecture and Programming]
+2.  https://sites.google.com/lbl.gov/cs267-spr2019/[CS267 UCB Applications of
+Parallel Computers]
+3.  http://www.cs.columbia.edu/~martha/courses/4130/au13/[COMS 4130 Columia
+University Principles and Practice of Parallel Programming]
+4.  https://www.cc.gatech.edu/~echow/ipcc/hpc-course/[GeorgiaTech HPC Course]
+5.  http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/[CSi-493.65
+Hunter College Parallel Computing]
+6.  http://pages.tacc.utexas.edu/~eijkhout/pcse/html/[Texas Parallel Programming
+in OpenMP and MPI]
+7.  https://mpitutorial.com[MPI Tutorials]
+8.  https://people.maths.ox.ac.uk/gilesm/cuda/[CUDA Workshop]
+9.  http://www.cse.iitm.ac.in/~krishna/courses/2018/even-cs6868/[CS 6868 IIT
+Madras Concurrent Programming]
+10. http://www.cse.iitm.ac.in/~rupesh/teaching/gpu/jan20/[CS 6023 IIT Madras GPU
+Programming] -Rupesh Nasre Version
+11. https://spcl.inf.ethz.ch/Teaching/2019-dphpc/[263-2800-00L EthZ Design of
+Parallel and High-Performance Computing]
+12. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm[6.189
+MIT Multicore Programming Primer]
+
+==== Quantum Computing and Quantum Space
+
+1.  http://www.cs.cmu.edu/~odonnell/quantum18/[15-859BB CMU Quantum Computation
+and Quantum Information]
+2.  https://cs269q.stanford.edu/[CS 269Q Stanford Quantum Computer Programming]
+3.  http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture[219 CalTech
+Quantum Computation]
+4.  https://people.eecs.berkeley.edu/~vazirani/f19quantum.html[CS294-66 UCB
+Quantum Computation]
+
+==== Computer Architecture
+
+1.  https://safari.ethz.ch/courses/[Eth-Zurich CMU Onur Mutlu SAFARI]
+* Contains all the great content one needs to learn computer architecture,
+memory systems parallel computer architecture …
+2.  http://csg.csail.mit.edu/6.823/lecnotes.html[6.823 MIT Computer System
+Architecture - Spring 2019]
+3.  http://csg.csail.mit.edu/6.S078/6_S078_2012_www/index.html[6.S078 - Computer
+Architecture: A Constructive Approach]
+4.  https://courses.cs.washington.edu/courses/csep548/[CSEP548 UW Computer
+Architecture]
+5.  http://user.engineering.uiowa.edu/~hpca/[High-Performance Computer
+Architecture]
+* Was confused where to group this!
+6.  http://www-inst.eecs.berkeley.edu/~cs152/sp19/[UCB CS152 Computer
+Architecture and Engineering CS252 Graduate Computer Architecture]
+7.  http://www.inf.ed.ac.uk/teaching/courses/car/[INF3 ED Computer Architecture]
+
+==== Digital Systems
+
+1.  http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html[6.375 MIT Complex
+Digital Systems]
+* Stresses on Bluespec System Verilog!
+2.  http://www.just.edu.jo/~tawalbeh/cpe779.html[CPE 779: Advanced Computer
+Arithmetic]
+3.  http://web.mit.edu/6.111/volume2/www/f2019/index.html[6.111 MIT Introductary
+Digital Systems Lab]
+4.  https://web.stanford.edu/class/archive/ee/ee108b/ee108b.1082/handouts/[EE108
+Stanford Digital Systems 2]
+
+==== Reconfigurable Computing
+
+1.  http://www.ecs.umass.edu/ece/tessier/courses/636/[ECE636 UMASS
+Reconfigurable Computing]
+2.  http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-643_course_schedule_fall_2019[18-643
+CMU Reconfigurable Computing]
+3.  http://www-inst.eecs.berkeley.edu/~cs294-3/sp04/[CS294-3 UCB Reconfigurable
+Computing]
+
+==== Systems Engineering for AI ML DL …
+
+1.  https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html[CS6886 IIT Madras
+Systems Engineering for Deep Learning]
+2.  https://ucbrise.github.io/cs294-ai-sys-sp19/[UCB AI Sys]
+3.  https://ucbrise.github.io/cs294-ai-sys-fa19/[Machine Learning Systems]
+4.  https://cs217.stanford.edu/[CS217 Stanford Hardware Accelerators for Machine
+Learning]
+
+==== Verification and Testing
+
+1.  http://www.taylortjohnson.com/class/eecs6315/s17/[Automated Verification]
+
+==== Embedded Systems
+
+1.  http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/[CSE 4840
+Columbia Embedded System Design]
+
+==== VLSI Design and FPGA Programming
+
+1.  http://ece-research.unm.edu/jimp/vhdl_fpgas/index.html[ECE 338: UCMB
+Intermediate Logic Design]
+* Stresses on VHDL
+2.  http://ece-research.unm.edu/jimp/codesign/index.html[ECE 522: UCMB
+Hardware/Sofware Codesign with FPGAs]
+3.  http://ece-research.unm.edu/jimp/vlsi_synthesis/index.html[ECE 595: UCMB
+Advanced VLSI Design]
+
+==== Hardware Security
+
+1.  http://ece-research.unm.edu/jimp/HOST/index.html[ECE 525: UCMB
+Hardware-Oriented Security and Trust]
+
+==== Operating Systems
+
+1.  https://pdos.csail.mit.edu/6.828/2018/schedule.html[6.828 MIT Operating
+Systems Engineering]
+* Do check out other years of this course.
+2.  http://www.scs.stanford.edu/19wi-cs140/[CS140: Stanford Operating Systems]
+3.  http://www.scs.stanford.edu/17sp-cs240/[CS240: Stanford Advanced Topics in
+Operating Systems]
+4.  https://www.cs.cmu.edu/~410/[15-410 CMU Operating System Design and
+Implementation]
+5.  https://www.cs.cmu.edu/~412/[15-412 CMU Operating Systems Practicum]
+6.  http://www.cs.cmu.edu/afs/cs/academic/class/15712-f15/www/index.html[15-712
+CMU Advanced and Distributed Operating Systems]
+7.  https://cs162.eecs.berkeley.edu/[CS-162 UCB Operating Systems and System
+Programming]
+* David Cullerhttps://inst.eecs.berkeley.edu/~cs162/fa19/[(FA19)] version has
+very good material too.
+8.  http://www.cse.iitm.ac.in/~chester/courses/16o_os/[CS3500 IIT Madras
+Operating Systems]
+* 2015 version of the course has extra topics.
+9.  https://manybutfinite.com/post/getting-physical-with-memory/[Many But
+Finite]
+* An awesome blog which give great details on some Systems topics
+10. https://github.com/angrave/SystemProgramming/wiki[Systems Programming]
+11. https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/[Operating
+Systems Course Notes]
+12. https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S14/[CS194-24
+UCB Advanced Operating Systems Structures and Implementation]
+
+==== Kernel Dev and Device Drivers
+
+1.  https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content[Linux
+Kernel Development Setup]
+* A COMPLETE(I think!) Guide to linux Kernel Development A-Z
+2.  http://ww2.cs.fsu.edu/~stanovic/teaching/ldd_summer_2014/assignments.html[FSU
+COP5641 Linux Kernel & Device Driver Programming]
+3.  https://www.bits-pilani.ac.in/pilani/deveshsamaiya/eeeg547[EEE G547 BITS
+Pilani Device Drivers]
+4.  https://embetronicx.com/tutorials/linux/device-drivers[Embetronics]
+* A tutorial set for linux device drivers
+5.  http://www.cs.otago.ac.nz/cosc440/schedule.php[CS440 University of Otago
+Advanced Operating Systems]
+* Seemed to be more on the device drivers side hence the placement here…!
+6.  https://sysplay.in/[Linux Systems Topics]
+
+==== Computer Systems and Distributed Systems
+
+1.  http://www.cs.cmu.edu/~srini/15-440-all/2016.Fall/[15-440 CMU Distributed
+Systems]
+* https://web2.qatar.cmu.edu/~mhhammou/15440-f17/index.html[another version]
+2.  https://deculler.github.io/cs262b-sp20/[CS262B UCB Advanced Topics in
+Computer Systems]
+3.  https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F19/index.html[CS262A
+UCB Advanced Topics in Computer Systems]
+
+==== Compilers
+
+1.  http://flint.cs.yale.edu/cs421/[CS 421/521: Yale Compilers and Interpreters]
+2.  https://www.cs.cmu.edu/~janh/courses/411/17/[CS 411 CMU Compiler Design]
+3.  http://www.cse.iitm.ac.in/~krishna/cs3300/[CS3300 IIT Madras Compiler
+Design]
+4.  http://www.cse.iitm.ac.in/~krishna/cs6013/[CS6013 Moder Compilers Theory and
+Practice]
+5.  https://www.cs.cmu.edu/~15745/index.html[CS 15-745 CMU Optimizing Compilers
+for Modern Architectures] ___
+
+=== Networks, Security and Cryptography
+
+==== Networks
+
+1.  https://computer-networks.github.io/sp19/index.html[15-441/641 CMU Computer
+Networks]
+2.  https://cs144.github.io/[CS 144 Stanford]
+3.  http://web.stanford.edu/class/cs244/[CS244 CMU Advanced Topics in
+Networking]
+4.  https://www.cs.columbia.edu/~hgs/teaching/networks/[CSEE 4119 Columbia An
+Introduction to Computer Networks]
+5.  http://www.cs.columbia.edu/~hgs/teaching/isp/[CS4995-03 Columbia Internet
+Systems Programming]
+6.  http://www.cs.columbia.edu/6181/[COMS 6181 Columbia Advanced Internet
+Services]
+7.  https://www.cs.princeton.edu/courses/archive/spring18/cos461/[COS 461
+Princeton Computer Networks]
+8.  https://www.cs.princeton.edu/courses/archive/fall18/cos561/index.html[COS-561
+Princeton Advanced Computer Networks]
+9.  https://www.cs.princeton.edu/courses/archive/fall13/cos597E/index.html[COS-597E
+Princeton Software Defined Networking]
+
+==== Security
+
+1.  http://www.cse.iitm.ac.in/~chester/courses/18o_sse/[CS6570 IIT Madras Secure
+Systems Engineering]
+2.  http://www.cse.iitm.ac.in/~chester/courses/19e_ns/[CS6500 IIT Madras Network
+Security]
+
+==== Cryptography
+
+1.  http://www.cse.iitm.ac.in/~chester/courses/18e_ac/[CS6530 IIT Madras Applied
+Cryptography] ___
+
+=== Computer Graphics and Design
+
+==== Computer Graphics
+
+1.  https://github.com/lesnitsky/webgl-month[Webgl-Month]
+2.  https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html[Webgl
+Fundamentals]
+3.  http://graphics.cs.cmu.edu/?page_id=16[Graphics CMU]
+* Complete Graphics Course set CMU
+4.  http://cs348k.stanford.edu/fall18/[CS348K Stanford Visual Computing Systems]
+* a nice fusion of Graphics and Vision ___
+
+=== AI and ML
+
+==== Deep Learning
+
+1.  https://cs230.stanford.edu/syllabus/[CS230 Stanford Deep Learning]
+2.  https://deeplearning.mit.edu/[MIT Deep Learning]
+3.  http://deeplearning.cs.cmu.edu/[11-785 CMU Introduction to Deep Learning]
+4.  https://vistalab-technion.github.io/cs236781/lectures/[CS236781 Technion
+Deep Learning]
+
+'''''
+
+=== Data Science and Analytics
+
+==== Big Data
+
+1.  https://web.stanford.edu/class/cs102/[CS102 Stanford Big Data Tools and
+Techiniques]
+
+==== Data Mining
+
+1.  http://www.andrew.cmu.edu/user/achoulde/95791/[95-791 CMU Data Mining]
+2.  https://web.cs.hacettepe.edu.tr/~ilyas/Courses/VBM684/[VBM684 Hacettepe
+University Data Mining]
+3.  http://web.stanford.edu/class/cs246/[CS246 Stanford Mining Massive Data
+Sets]
+4.  https://wiki.illinois.edu/wiki/display/cs412/2.+Course+Syllabus+and+Schedule[CS412
+Illinois An Introduction to Data Warehousing and Data Mining]
+5.  https://wiki.illinois.edu/wiki/display/cs512/Home[CS512 Illinois Principles
+and Algorithms"] ___
+
+=== Computer Vision and Image Processing
+
+==== Computer Vision
+
+1.  http://vision.stanford.edu/teaching/cs131_fall1920/[CS131 Stanford Computer
+Vision: Foundations and Applications]
+2.  http://vision.stanford.edu/teaching/cs231b_spring1415/[CS231B Stanford The
+Cutting Edge of Computer Vision]
+3.  http://vision.stanford.edu/teaching/cs331_winter14/[CS 331: Advanced Reading
+in Computer Vision]
+4.  http://vision.stanford.edu/teaching.html[Vision Stanford]
+* Contains all the course links wrt vision by stanford including some of the
+above ones(may be old links here!)
+5.  https://www.cc.gatech.edu/~afb/classes/CS4495-Spring2015-OMS/[CS4495-OMS
+GeorgiaTech Computer Vision]
+6.  http://www.cse.iitm.ac.in/~vplab/computer_vision.html[Computer Vision IIT
+Madras]
+
+'''''
+
+=== CS In Applied Sciences
+
+1.  http://iacs-courses.seas.harvard.edu/courses/cs205/index.html[CS205 Harvard
+Computing Foundations of Comuptational Science]
+
+'''''
+
+=== Theoretical Computer Science Courses
+
+==== Algorithms and Data Structures
+
+1.  http://courses.csail.mit.edu/6.006/[MIT Introduction to Algorithms]
+2.  http://www.cs.cmu.edu/~15210/[CS15-210 CMU Parallel and Sequential Data
+Structures and Algorithms]
+3.  https://www.cs.dartmouth.edu/~scot/cs10/syllabus.html[Problem Solving Via
+Object-Oriented Programming]
+* although seems to be OOPs course has good content wrt Algorithms and Data
+Structures
+4.  http://timroughgarden.org/w16/w16.html[CS261 Stanford A Second Course in
+Algorithms]
+5.  https://ttic.uchicago.edu/~avrim/Algo19/[UChicago Algorithms]
+
+==== Combinatorics
+
+1.  http://yufeizhao.com/211/[MIT 18.211 Combinatorial Analysis]
+2.  http://web.stanford.edu/class/cs103/[CS103 Mathematical Foundations of
+Computing]
+
+==== Graph Theory
+
+1.  http://www.math.cmu.edu/~jmackey/math484/syll_484.html[CMU Graph Theory]
+2.  http://www.cs.columbia.edu/~cs4203/course_material.html[COMS 4203 Columbia
+Graph Theory]
+3.  http://yufeizhao.com/gtac/[MIT 18.217 Graph Theory and Additive
+Combinatorics]
+4.  http://theory.stanford.edu/~virgi/cs267/index.html[CS267 Stanford Graph
+Algorithms]
+5.  https://people.csail.mit.edu/virgi/6.890/[MIT 6.890 Algorithms for Graphs
+and Matrices] ___
+
+=== Programming
+
+==== General
+
+1.  https://web.stanford.edu/class/cs97si/[CS 97SI: Introduction to Programming
+Contests]
+2.  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-370-the-battlecode-programming-competition-january-iap-2013/index.htm[6.370
+MIT The Battle Code Programming Competition]
+* Learn Programming by making an AI game!!
+3.  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/index.htm[6.S095
+MIT Programming for the Puzzled]
+4.  https://academy.cs.cmu.edu/course/cs0[CMU CS Academy: CS 0]
+5.  https://contest.cs.cmu.edu/295/f19/[15-295 CMU Competition Programming and
+Problem Solving]
+6.  https://www.cs.cmu.edu/~112/index.html[CMU 15-112: Fundamentals of
+Programming and Computer Science]
+7.  https://see.stanford.edu/Course/CS106A[CS106A Stanford Programming
+Methodology]
+8.  https://www.pm.inf.ethz.ch/education/courses/COOP.html[ETH-Zurich Concepts
+of Object-Oriented Programming]
+9.  https://www.pm.inf.ethz.ch/education/courses/program-verification.html[ETH-Zurich
+Program Verification]
+* A good course on software verification
+10. https://github.com/lnishan/awesome-competitive-programming[Awesome
+Competitive Programming]
+* A 11 year experience of Competitive Programming.
+11. https://learnxinyminutes.com/[Learn X in Y minutes]
+* awesome all in one intro to different languages.
+12. https://exercism.io/[Exercism]
+13. https://acl.inf.ethz.ch/teaching/fastcode/[ETHZ How to Write Fast Numerical
+Code]
+* http://users.ece.cmu.edu/~pueschel/teaching/18-645-CMU-spring08/course.html[Another
+Version]
+14. http://www.cs.cmu.edu/~guna/15-123S11/[15-123 CMU Effective Programming in C
+and Unix]
+
+==== Functional Languages and HDLs
+
+1.  http://csg.csail.mit.edu/6.827/handouts.html[6.827 Multithreaded
+Parallelism: Languages and Compilers Fall-2006]
+2.  http://beethoven.ee.ncku.edu.tw/testlab/course/VLSIdesign_course/index.htm[VLSI
+System Design]
+* A great course on Verilog, you can always use google translate for the
+contents page!
+3.  https://www.fpga4student.com/[FPGA Student]
+* A good place for HDL Projects
+4.  http://www.scs.stanford.edu/16wi-cs240h/[CS240H Stanford Functional Systems
+in Haskell]
+
+'''''
+
+=== Miscellaneous
+
+1.  https://web.stanford.edu/class/cs54n/[CS54N Stanford Great Ideas In Computer
+Science]
+* A nice course revisiting the greats and their ideas in computer science.
+2.  https://cs.stanford.edu/academics/courses[Stanford CS Course]
+* List of CS courses with respective course websites for each quarter
+3.  http://www-classes.usc.edu/engr/ee-s/[University of Southern California]
+* Its full archive of many courses(mostly before 2010)
+4.  https://cs61c.org[CS61 UCB Great Ideas In Computer Architecture]
+* A nice course about computer architecture milestones.
+5.  https://github.com/adeshpande3/UCLA-Course-Notes/blob/master/[Some UCLA
+Course Notes]
+6.  https://missing.csail.mit.edu/[The Missing Semester of Your CS Education]
+* A very good short course on what every cs student shoulnd know! ___
+
+=== Contributors
+
+1.  https://github.com/sindu-sss[Sinduja]
+2.  https://github.com/blackpanther409[Sahithi Nadyala]
+3.  https://github.com/PratyushVM[Pratyush]
