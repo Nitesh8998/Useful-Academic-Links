@@ -55,7 +55,10 @@ to see other courses of the faculty.
 7. [MPI Tutorials](https://mpitutorial.com)
 8. [CUDA Workshop](https://people.maths.ox.ac.uk/gilesm/cuda/)
 9. [CS 6868 IIT Madras Concurrent Programming](http://www.cse.iitm.ac.in/~krishna/courses/2018/even-cs6868/)
+9. [CS 6023 IIT Madras GPU Programming](http://www.cse.iitm.ac.in/~rupesh/teaching/gpu/jan20/)
+    -Rupesh Nasre Version
 10. [263-2800-00L EthZ Design of Parallel and High-Performance Computing](https://spcl.inf.ethz.ch/Teaching/2019-dphpc/)
+10. [6.189 MIT Multicore Programming Primer](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm)
 
 #### Quantum Computing and Quantum Space
 1. [15-859BB CMU Quantum Computation and Quantum Information](http://www.cs.cmu.edu/~odonnell/quantum18/)
@@ -305,3 +308,4 @@ ___
 
 ### Contributors
 1. [Sinduja](https://github.com/sindu-sss)
+2. [Sahithi Nadyala](https://github.com/blackpanther409)
