@@ -17,6 +17,20 @@ to see other courses of the faculty.
 
 ## Table of Contents
 1. [Computer Systems Courses](#computer-systems-and-hardware-courses)
+    1. [Basic](#basic)
+    1. [Digital Systems](#digital-systems)
+    1. [Computer Organization and Assembly Programming](#computer-organization-and-assembly-programming)
+    1. [Computer Architecture](#computer-architecture)
+    1. [Reconfigurable Computing](#reconfigurable-computing)
+    1. [VLSI Design and FPGA Programming](#vlsi-design-and-fpga-programming)
+    1. [Verification and Testing](#verification-and-testing)
+    1. [Embedded Systems](#embedded-systems)
+    1. [Hardware Security](#hardware-security)
+    1. [Operating Systems](#operating-systems)
+    1. [Kernel Dev and Device Drivers](#kernel-dev-and-device-drivers)
+    1. [Compilers](#compilers)
+    1. [High Performance Computing/ Parallel Computing](#high-performance-computing/-parallel-computing)
+    1. [Quantum Computing and Quantum Space](#quantum-computing-and-quantum-space)
 2. [Networks, Security and Cryptography](#networks,-security-and-cryptogrpahy)
 3. [Computer Graphics and Design](#computer-graphics-and-design)
 3. [AI and ML](#ai-and-ml)
@@ -36,6 +50,13 @@ to see other courses of the faculty.
     - One awesome course that gives you a taste of everything.
 3. [Introduction to Computer Science Scientific Perspective](https://www.cs.princeton.edu/courses/archive/fall19/cos126/assignments.html)
 
+#### Digital Systems
+1. [6.375 MIT Complex Digital Systems](http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html)
+    - Stresses on Bluespec System Verilog!
+2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
+2. [6.111 MIT Introductary Digital Systems Lab](http://web.mit.edu/6.111/volume2/www/f2019/index.html)
+2. [EE108 Stanford Digital Systems 2](https://web.stanford.edu/class/archive/ee/ee108b/ee108b.1082/handouts/)
+
 
 #### Computer Organization and Assembly Programming
 1. [A short Guide on x86 Assembly](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
@@ -44,27 +65,6 @@ to see other courses of the faculty.
 3. [CS107 Computer Organization and Systems](https://web.ford.edu/class/archive/cs/cs107/cs107.1202/schedule.html)
 4. [Computer Organization](https://people.cs.clemson.edu/~rlowe/cs2310/notes/)
     - Has a lot of ARM related stuff
-
-#### High Performance Computing/ Parallel Computing 
-1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
-2. [CS267 UCB Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/)
-3. [COMS 4130 Columia University Principles and Practice of Parallel Programming](http://www.cs.columbia.edu/~martha/courses/4130/au13/)
-4. [GeorgiaTech HPC Course](https://www.cc.gatech.edu/~echow/ipcc/hpc-course/)
-5. [CSi-493.65 Hunter College Parallel Computing](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/)
-6. [Texas Parallel Programming in OpenMP and MPI](http://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
-7. [MPI Tutorials](https://mpitutorial.com)
-8. [CUDA Workshop](https://people.maths.ox.ac.uk/gilesm/cuda/)
-9. [CS 6868 IIT Madras Concurrent Programming](http://www.cse.iitm.ac.in/~krishna/courses/2018/even-cs6868/)
-9. [CS 6023 IIT Madras GPU Programming](http://www.cse.iitm.ac.in/~rupesh/teaching/gpu/jan20/)
-    -Rupesh Nasre Version
-10. [263-2800-00L EthZ Design of Parallel and High-Performance Computing](https://spcl.inf.ethz.ch/Teaching/2019-dphpc/)
-10. [6.189 MIT Multicore Programming Primer](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm)
-
-#### Quantum Computing and Quantum Space
-1. [15-859BB CMU Quantum Computation and Quantum Information](http://www.cs.cmu.edu/~odonnell/quantum18/)
-2. [CS 269Q Stanford Quantum Computer Programming](https://cs269q.stanford.edu/)
-3. [219 CalTech Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
-3. [CS294-66 UCB Quantum Computation](https://people.eecs.berkeley.edu/~vazirani/f19quantum.html)
 
 #### Computer Architecture
 1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
@@ -78,23 +78,18 @@ to see other courses of the faculty.
 CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/sp19/)
 7. [INF3 ED Computer Architecture](http://www.inf.ed.ac.uk/teaching/courses/car/)
     
-#### Digital Systems
-1. [6.375 MIT Complex Digital Systems](http://csg.csail.mit.edu/6.375/6_375_2019_www/index.html)
-    - Stresses on Bluespec System Verilog!
-2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
-2. [6.111 MIT Introductary Digital Systems Lab](http://web.mit.edu/6.111/volume2/www/f2019/index.html)
-2. [EE108 Stanford Digital Systems 2](https://web.stanford.edu/class/archive/ee/ee108b/ee108b.1082/handouts/)
 
 #### Reconfigurable Computing
 1. [ECE636 UMASS Reconfigurable Computing ](http://www.ecs.umass.edu/ece/tessier/courses/636/)
 2. [18-643 CMU Reconfigurable Computing](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-643_course_schedule_fall_2019)
 3. [CS294-3 UCB Reconfigurable Computing](http://www-inst.eecs.berkeley.edu/~cs294-3/sp04/)
 
-#### Systems Engineering for AI ML DL ...
-1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
-1. [UCB AI Sys](https://ucbrise.github.io/cs294-ai-sys-sp19/)
-1. [Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)
-1. [CS217 Stanford Hardware Accelerators for Machine Learning ](https://cs217.stanford.edu/)
+#### VLSI Design and FPGA Programming
+1. [ECE 338: UCMB Intermediate Logic Design](http://ece-research.unm.edu/jimp/vhdl_fpgas/index.html)
+    - Stresses on VHDL
+2. [ECE 522: UCMB Hardware/Sofware Codesign with FPGAs](http://ece-research.unm.edu/jimp/codesign/index.html)
+3. [ECE 595: UCMB Advanced VLSI Design](http://ece-research.unm.edu/jimp/vlsi_synthesis/index.html)
+
 
 #### Verification and Testing
 1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
@@ -102,11 +97,6 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 #### Embedded Systems
 1. [CSE 4840 Columbia Embedded System Design ](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/)
 
-#### VLSI Design and FPGA Programming
-1. [ECE 338: UCMB Intermediate Logic Design](http://ece-research.unm.edu/jimp/vhdl_fpgas/index.html)
-    - Stresses on VHDL
-2. [ECE 522: UCMB Hardware/Sofware Codesign with FPGAs](http://ece-research.unm.edu/jimp/codesign/index.html)
-3. [ECE 595: UCMB Advanced VLSI Design](http://ece-research.unm.edu/jimp/vlsi_synthesis/index.html)
 
 #### Hardware Security
 1. [ECE 525: UCMB Hardware-Oriented Security and Trust](http://ece-research.unm.edu/jimp/HOST/index.html)
@@ -128,10 +118,6 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 1. [CS194-24 UCB Advanced Operating Systems Structures and Implementation](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S14/)
-
-
-
- 
 
 #### Kernel Dev and Device Drivers
 1. [Linux Kernel Development Setup](https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content)
@@ -157,6 +143,39 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [CS3300 IIT Madras Compiler Design](http://www.cse.iitm.ac.in/~krishna/cs3300/)
 4. [CS6013 Moder Compilers Theory and Practice](http://www.cse.iitm.ac.in/~krishna/cs6013/)
 5. [CS 15-745 CMU Optimizing Compilers for Modern Architectures](https://www.cs.cmu.edu/~15745/index.html)
+
+#### High Performance Computing/ Parallel Computing 
+1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
+2. [CS267 UCB Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/)
+2. [263-2800-00L EthZ Design of Parallel and High-Performance Computing](https://spcl.inf.ethz.ch/Teaching/2019-dphpc/)
+3. [COMS 4130 Columia University Principles and Practice of Parallel Programming](http://www.cs.columbia.edu/~martha/courses/4130/au13/)
+4. [GeorgiaTech HPC Course](https://www.cc.gatech.edu/~echow/ipcc/hpc-course/)
+5. [CSi-493.65 Hunter College Parallel Computing](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/)
+6. [Texas Parallel Programming in OpenMP and MPI](http://pages.tacc.utexas.edu/~eijkhout/pcse/html/)
+7. [MPI Tutorials](https://mpitutorial.com)
+8. [CUDA Workshop](https://people.maths.ox.ac.uk/gilesm/cuda/)
+9. [CS 6868 IIT Madras Concurrent Programming](http://www.cse.iitm.ac.in/~krishna/courses/2018/even-cs6868/)
+9. [CS 6023 IIT Madras GPU Programming](http://www.cse.iitm.ac.in/~rupesh/teaching/gpu/jan20/)
+    -Dr.Rupesh Nasre Version
+9. [CS 179 CalTech GPU Programming](http://courses.cms.caltech.edu/cs179/)
+9. [UNIFI GPU Programming Course](https://www.micc.unifi.it/bertini/download/gpu-programming-basics/2018/registro_lezioni.html)
+9. [Existing University Courses on CUDA](https://developer.nvidia.com/educators/existing-courses)
+10. [6.189 MIT Multicore Programming Primer](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm)
+
+
+
+#### Quantum Computing and Quantum Space
+1. [15-859BB CMU Quantum Computation and Quantum Information](http://www.cs.cmu.edu/~odonnell/quantum18/)
+2. [CS 269Q Stanford Quantum Computer Programming](https://cs269q.stanford.edu/)
+3. [219 CalTech Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
+3. [CS294-66 UCB Quantum Computation](https://people.eecs.berkeley.edu/~vazirani/f19quantum.html)
+
+#### Systems Engineering for AI ML DL ...
+1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
+1. [UCB AI Sys](https://ucbrise.github.io/cs294-ai-sys-sp19/)
+1. [Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)
+1. [CS217 Stanford Hardware Accelerators for Machine Learning ](https://cs217.stanford.edu/)
+
 ___
 
 ### Networks, Security and Cryptography
@@ -297,6 +316,8 @@ ___
     - A nice course revisiting the greats and their ideas in computer science.
 1. [Stanford CS Course](https://cs.stanford.edu/academics/courses)
     - List of CS courses with respective course websites for each quarter
+1. [University of Florence Pisa](http://smartcomputing.unifi.it/courses.html)
+    - Smart computing courses
 2. [University of Southern California](http://www-classes.usc.edu/engr/ee-s/)
     - Its full archive of many courses(mostly before 2010)
 3. [CS61 UCB Great Ideas In Computer Architecture](https://cs61c.org)
