@@ -29,7 +29,7 @@ to see other courses of the faculty.
     1. [Operating Systems](#operating-systems)
     1. [Kernel Dev and Device Drivers](#kernel-dev-and-device-drivers)
     1. [Compilers](#compilers)
-    1. [High Performance Computing/ Parallel Computing](#high-performance-computing/-parallel-computing)
+    1. [High Performance Computing/ Parallel Computing](#high-performance-computing)
     1. [Quantum Computing and Quantum Space](#quantum-computing-and-quantum-space)
 2. [Networks, Security and Cryptography](#networks,-security-and-cryptogrpahy)
 3. [Computer Graphics and Design](#computer-graphics-and-design)
@@ -144,7 +144,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 4. [CS6013 Moder Compilers Theory and Practice](http://www.cse.iitm.ac.in/~krishna/cs6013/)
 5. [CS 15-745 CMU Optimizing Compilers for Modern Architectures](https://www.cs.cmu.edu/~15745/index.html)
 
-#### High Performance Computing/ Parallel Computing 
+#### High Performance Computing
 1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
 2. [CS267 UCB Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2019/)
 2. [263-2800-00L EthZ Design of Parallel and High-Performance Computing](https://spcl.inf.ethz.ch/Teaching/2019-dphpc/)
