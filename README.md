@@ -328,6 +328,6 @@ ___
 ___
 
 ### Contributors
-1. [Sinduja](https://github.com/sindu-sss)
+1. [Sinduja](https://github.com/Sinduja-S)
 2. [Sahithi Nadyala](https://github.com/blackpanther409)
 3. [Pratyush](https://github.com/PratyushVM)
