@@ -217,7 +217,7 @@ ___
 1. [MIT Deep Learning](https://deeplearning.mit.edu/)
 1. [11-785 CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 1. [CS236781 Technion Deep Learning](https://vistalab-technion.github.io/cs236781/lectures/)
-
+1. [CSC 421/2516 Toronto Neural Networks and Deep Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/)
 ___
 
 ### Data Science and Analytics
