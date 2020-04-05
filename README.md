@@ -218,6 +218,7 @@ ___
 1. [11-785 CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 1. [CS236781 Technion Deep Learning](https://vistalab-technion.github.io/cs236781/lectures/)
 1. [CSC 421/2516 Toronto Neural Networks and Deep Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/)
+
 ___
 
 ### Data Science and Analytics
@@ -231,6 +232,7 @@ ___
 1. [CS246 Stanford Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 1. [CS412 Illinois An Introduction to Data Warehousing and Data Mining](https://wiki.illinois.edu/wiki/display/cs412/2.+Course+Syllabus+and+Schedule)
 1. [CS512 Illinois Principles and Algorithms"](https://wiki.illinois.edu/wiki/display/cs512/Home)
+1 [STA 325 Duke Data Mining and Machine Learning](http://www2.stat.duke.edu/~rcs46/data-mine-18.html)
 ___
 
 ### Computer Vision and Image Processing
