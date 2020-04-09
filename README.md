@@ -332,6 +332,7 @@ ___
     1. [Duke ML](http://www2.stat.duke.edu/~rcs46/lectures_2015/07-reg1/)
     1. [Washington](https://courses.cs.washington.edu/courses/cse573/01au/)
     1. [Stanford Stats](http://statweb.stanford.edu/~tibs/stat315a/LECTURES/)
+    1. [Poly](http://cis.poly.edu/~mleung/CS6673/s09/)
 ___
 
 ### Contributors
