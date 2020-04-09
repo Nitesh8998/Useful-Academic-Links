@@ -327,6 +327,11 @@ ___
 4. [Some UCLA Course Notes](https://github.com/adeshpande3/UCLA-Course-Notes/blob/master/)
 1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
     - A very good short course on what every cs student shoulnd know!
+1. Latex sources
+    1. [CMU ML Book](http://www.cs.cmu.edu/afs/cs/project/theo-20/www/mlbook/)
+    1. [Duke ML](http://www2.stat.duke.edu/~rcs46/lectures_2015/07-reg1/)
+    1. [Washington](https://courses.cs.washington.edu/courses/cse573/01au/)
+    1. [Stanford Stats](http://statweb.stanford.edu/~tibs/stat315a/LECTURES/)
 ___
 
 ### Contributors
