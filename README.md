@@ -320,6 +320,8 @@ ___
 
 #### Algebra
 1. [18.06 MIT Linear Algebra](http://web.mit.edu/18.06/www/)
+    -[18.700 - Linear Algebra](http://math.mit.edu/~trasched/18.700.f10/schedule.html)
+    -[Videos](http://www.linear.axler.net/LADRvideos.html)
 2. [Abstract Algebra](http://www-users.math.umn.edu/~garrett/m/algebra/)
 
 
