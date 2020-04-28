@@ -39,6 +39,7 @@ to see other courses of the faculty.
 4. [CS In Applied Sciences](#cs-in-applied-sciences)
 5. [Theoretical Computer Science Courses](#theoretical-computer-science-courses)
 6. [Programming](#programming)
+6. [Math](#math)
 6. [Miscellaneous](#miscellaneous)
 
 
@@ -169,6 +170,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 2. [CS 269Q Stanford Quantum Computer Programming](https://cs269q.stanford.edu/)
 3. [219 CalTech Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
 3. [CS294-66 UCB Quantum Computation](https://people.eecs.berkeley.edu/~vazirani/f19quantum.html)
+3. [Mathematical Fundamentals of Quantum Mechanics](https://theory.physics.manchester.ac.uk/~judith/Quantum/index.html)
 
 #### Systems Engineering for AI ML DL ...
 1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
@@ -310,6 +312,16 @@ ___
 3. [FPGA Student](https://www.fpga4student.com/)
     - A good place for HDL Projects
 4. [CS240H Stanford Functional Systems in Haskell](http://www.scs.stanford.edu/16wi-cs240h/)
+
+
+___
+
+### Math
+
+#### Algebra
+1. [18.06 MIT Linear Algebra](http://web.mit.edu/18.06/www/)
+2. [Abstract Algebra](http://www-users.math.umn.edu/~garrett/m/algebra/)
+
 
 ___
 
