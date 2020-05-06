@@ -144,6 +144,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [CS3300 IIT Madras Compiler Design](http://www.cse.iitm.ac.in/~krishna/cs3300/)
 4. [CS6013 Moder Compilers Theory and Practice](http://www.cse.iitm.ac.in/~krishna/cs6013/)
 5. [CS 15-745 CMU Optimizing Compilers for Modern Architectures](https://www.cs.cmu.edu/~15745/index.html)
+    - [Other versions](https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/)
 
 #### High Performance Computing
 1. [CS15-418 CMU Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2017/)
