@@ -172,6 +172,14 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [219 CalTech Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
 3. [CS294-66 UCB Quantum Computation](https://people.eecs.berkeley.edu/~vazirani/f19quantum.html)
 3. [Mathematical Fundamentals of Quantum Mechanics](https://theory.physics.manchester.ac.uk/~judith/Quantum/index.html)
+3. [UCR QC](https://intra.ece.ucr.edu/~Korotkov/courses/EE214.html)
+3. [2.111 MIT  Quantum Computation ](http://web.mit.edu/2.111/www/index.htm)
+    -[Another Version](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/)
+3. [ETHZ Quantum Systems
+for Information Technology
+ ](https://qudev.phys.ethz.ch/static/content/courses/QSIT11/QSITlectureWT11.html)
+3. [University of Cambridge](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/)
+3. [IIT KGP QC seminar](https://cse.iitkgp.ac.in/~goutam/quantumComputing/index.html)
 
 #### Systems Engineering for AI ML DL ...
 1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
