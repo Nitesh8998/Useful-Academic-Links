@@ -179,8 +179,11 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [ETHZ Quantum Systems
 for Information Technology
  ](https://qudev.phys.ethz.ch/static/content/courses/QSIT11/QSITlectureWT11.html)
-3. [University of Cambridge](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/)
+3. [QC University of Cambridge](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/)
+3. [CMSC/PHYS 457 UMD Introduction to Quantum Computing](https://www.cs.umd.edu/class/spring2018/cmsc457/reference.html)
+    -[Mini-Library on Quantum Information and Computation](https://www.cs.umd.edu/~xwu/mini_lib.html)
 3. [IIT KGP QC seminar](https://cse.iitkgp.ac.in/~goutam/quantumComputing/index.html)
+
 
 #### Systems Engineering for AI ML DL ...
 1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
