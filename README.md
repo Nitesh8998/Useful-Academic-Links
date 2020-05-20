@@ -84,6 +84,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 1. [ECE636 UMASS Reconfigurable Computing ](http://www.ecs.umass.edu/ece/tessier/courses/636/)
 2. [18-643 CMU Reconfigurable Computing](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-643_course_schedule_fall_2019)
 3. [CS294-3 UCB Reconfigurable Computing](http://www-inst.eecs.berkeley.edu/~cs294-3/sp04/)
+4. [15-828/18-847 CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15828-s98/www/index.html)
 
 #### VLSI Design and FPGA Programming
 1. [ECE 338: UCMB Intermediate Logic Design](http://ece-research.unm.edu/jimp/vhdl_fpgas/index.html)
