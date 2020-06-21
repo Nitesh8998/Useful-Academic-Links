@@ -210,6 +210,8 @@ ___
 #### Security
 1. [CS6570 IIT Madras Secure Systems Engineering](http://www.cse.iitm.ac.in/~chester/courses/18o_sse/)
 2. [CS6500 IIT Madras Network Security](http://www.cse.iitm.ac.in/~chester/courses/19e_ns/)
+1. [15/18-330 CMU Introduction to Computer Security](https://www.andrew.cmu.edu/course/18-330/)
+1. [18731  CMU Network Security](http://users.ece.cmu.edu/~vsekar/Teaching/Spring20/18731/)
 
 #### Cryptography
 1. [CS6530 IIT Madras Applied Cryptography](http://www.cse.iitm.ac.in/~chester/courses/18e_ac/)
