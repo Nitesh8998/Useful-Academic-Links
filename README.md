@@ -177,13 +177,13 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [UCR QC](https://intra.ece.ucr.edu/~Korotkov/courses/EE214.html)
 3. [2.111 MIT  Quantum Computation ](http://web.mit.edu/2.111/www/index.htm)
     -[Another Version](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/)
-3. [ETHZ Quantum Systems
-for Information Technology
- ](https://qudev.phys.ethz.ch/static/content/courses/QSIT11/QSITlectureWT11.html)
+    -[Peter Shor Version](http://www-math.mit.edu/~shor/18.435/)
+3. [ETHZ Quantum Systems for Information Technology](https://qudev.phys.ethz.ch/static/content/courses/QSIT11/QSITlectureWT11.html)
 3. [QC University of Cambridge](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/)
 3. [CMSC/PHYS 457 UMD Introduction to Quantum Computing](https://www.cs.umd.edu/class/spring2018/cmsc457/reference.html)
     -[Mini-Library on Quantum Information and Computation](https://www.cs.umd.edu/~xwu/mini_lib.html)
 3. [IIT KGP QC seminar](https://cse.iitkgp.ac.in/~goutam/quantumComputing/index.html)
+
 
 
 #### Systems Engineering for AI ML DL ...
@@ -210,8 +210,14 @@ ___
 #### Security
 1. [CS6570 IIT Madras Secure Systems Engineering](http://www.cse.iitm.ac.in/~chester/courses/18o_sse/)
 2. [CS6500 IIT Madras Network Security](http://www.cse.iitm.ac.in/~chester/courses/19e_ns/)
-1. [15/18-330 CMU Introduction to Computer Security](https://www.andrew.cmu.edu/course/18-330/)
 1. [18731  CMU Network Security](http://users.ece.cmu.edu/~vsekar/Teaching/Spring20/18731/)
+1. [COMS E6183 Columbia Advanced Topics in Network Security](http://www.cs.columbia.edu/~suman/coms_e6183.html)
+1. [15/18-330 CMU Introduction to Computer Security](https://www.andrew.cmu.edu/course/18-330/)
+    - [Bryan Version](https://www.andrew.cmu.edu/course/18-330/2019/)
+1. [COMS W4181 Columbia Security 1](http://www.cs.columbia.edu/~suman/security_1_2019.html)
+1. [COMS W4187 Columbia Security Architecture & Engineering](http://www.cs.columbia.edu/~suman/security_arch.html)
+1. [COMS W4995 Columbia Secure Software Development: Theory and Practice](http://www.cs.columbia.edu/~suman/secure_sw_devel/secure_sw_devel.html)
+1. [COMS E6184 Columbia Anonymity and Privacy](https://www.cs.columbia.edu/~smb/classes/s17/)
 
 #### Cryptography
 1. [CS6530 IIT Madras Applied Cryptography](http://www.cse.iitm.ac.in/~chester/courses/18e_ac/)
@@ -229,6 +235,8 @@ ___
 ___
 
 ### AI and ML
+
+1.[Data Playground summerisation](https://harangdev.github.io/contents/)
 
 #### Deep Learning
 1. [CS230 Stanford Deep Learning](https://cs230.stanford.edu/syllabus/)
