@@ -78,6 +78,8 @@ to see other courses of the faculty.
 6. [UCB CS152 Computer Architecture and Engineering
 CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/sp19/)
 7. [INF3 ED Computer Architecture](http://www.inf.ed.ac.uk/teaching/courses/car/)
+8. [COMPAS Lab Stony Brooks](https://compas.cs.stonybrook.edu/courses/cse502-s19/)
+    - Has other systems related courses too.
     
 
 #### Reconfigurable Computing
