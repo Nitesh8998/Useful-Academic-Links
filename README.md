@@ -47,6 +47,8 @@ to see other courses of the faculty.
 
 #### Basic
 1. [CMU Introduction to Computer Systems](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/resources.html)
+    - [18-613 Foundations of Computer Systems](http://www.cs.cmu.edu/afs/cs/academic/class/15213-s19/www/lectures613/)
+    - [Another Version](http://course.ece.cmu.edu/~ece600/)
 2. [NAND to Tetris](https://www.nand2tetris.org/)
     - One awesome course that gives you a taste of everything.
 3. [Introduction to Computer Science Scientific Perspective](https://www.cs.princeton.edu/courses/archive/fall19/cos126/assignments.html)
