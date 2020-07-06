@@ -78,7 +78,8 @@ to see other courses of the faculty.
 5. [High-Performance Computer Architecture](http://user.engineering.uiowa.edu/~hpca/)
     - Was confused where to group this!
 6. [UCB CS152 Computer Architecture and Engineering
-CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/sp19/)
+CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/sp20/)
+6. [18-447 CMU Introduction to Computer Architecture](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture)
 7. [INF3 ED Computer Architecture](http://www.inf.ed.ac.uk/teaching/courses/car/)
 8. [COMPAS Lab Stony Brooks](https://compas.cs.stonybrook.edu/courses/cse502-s19/)
     - Has other systems related courses too.
