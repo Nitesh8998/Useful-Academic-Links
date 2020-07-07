@@ -68,6 +68,7 @@ to see other courses of the faculty.
 3. [CS107 Computer Organization and Systems](https://web.ford.edu/class/archive/cs/cs107/cs107.1202/schedule.html)
 4. [Computer Organization](https://people.cs.clemson.edu/~rlowe/cs2310/notes/)
     - Has a lot of ARM related stuff
+5. [CSE 30 UCSD Computer Organization and Systems Programming](http://cseweb.ucsd.edu/~airturk/cse30.html)
 
 #### Computer Architecture
 1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
@@ -83,7 +84,12 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 7. [INF3 ED Computer Architecture](http://www.inf.ed.ac.uk/teaching/courses/car/)
 8. [COMPAS Lab Stony Brooks](https://compas.cs.stonybrook.edu/courses/cse502-s19/)
     - Has other systems related courses too.
-    
+
+9. MISC
+    -[Branch prediction Report](http://web.engr.oregonstate.edu/~benl/Projects/branch_pred/)
+    -[Prefetching Report](http://web.engr.oregonstate.edu/~benl/Projects/prefetch_report/final.html)
+  
+
 
 #### Reconfigurable Computing
 1. [ECE636 UMASS Reconfigurable Computing ](http://www.ecs.umass.edu/ece/tessier/courses/636/)
@@ -188,6 +194,8 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [CMSC/PHYS 457 UMD Introduction to Quantum Computing](https://www.cs.umd.edu/class/spring2018/cmsc457/reference.html)
     -[Mini-Library on Quantum Information and Computation](https://www.cs.umd.edu/~xwu/mini_lib.html)
 3. [IIT KGP QC seminar](https://cse.iitkgp.ac.in/~goutam/quantumComputing/index.html)
+4. [Quantum Computing Hands on using Qiskit and IBM QC ](https://qiskit.org/textbook/preface.html)
+
 
 
 
@@ -353,6 +361,9 @@ ___
     -[Videos](http://www.linear.axler.net/LADRvideos.html)
 2. [Abstract Algebra](http://www-users.math.umn.edu/~garrett/m/algebra/)
 
+3. Representing Mathematics using Computer
+    -[Maxima](http://maxima.sourceforge.net/)
+    -[SAGE](https://www.sagemath.org/tour.html)
 
 ___
 
