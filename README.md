@@ -59,6 +59,7 @@ to see other courses of the faculty.
 2. [CPE 779: Advanced Computer Arithmetic](http://www.just.edu.jo/~tawalbeh/cpe779.html)
 2. [6.111 MIT Introductary Digital Systems Lab](http://web.mit.edu/6.111/volume2/www/f2019/index.html)
 2. [EE108 Stanford Digital Systems 2](https://web.stanford.edu/class/archive/ee/ee108b/ee108b.1082/handouts/)
+2. [CSE352 Washington Hardware Design and Implementation](https://courses.cs.washington.edu/courses/cse352/15sp/)
 
 
 #### Computer Organization and Assembly Programming
@@ -84,6 +85,8 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 7. [INF3 ED Computer Architecture](http://www.inf.ed.ac.uk/teaching/courses/car/)
 8. [COMPAS Lab Stony Brooks](https://compas.cs.stonybrook.edu/courses/cse502-s19/)
     - Has other systems related courses too.
+9. [CSEP548 Washington Computer Architecture](http://courses.cs.washington.edu/courses/csep548/)
+9. [CSE548 Washington Computer Systems Architecture](http://courses.cs.washington.edu/courses/cse548/)
 
 9. MISC
     -[Branch prediction Report](http://web.engr.oregonstate.edu/~benl/Projects/branch_pred/)
@@ -102,6 +105,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     - Stresses on VHDL
 2. [ECE 522: UCMB Hardware/Sofware Codesign with FPGAs](http://ece-research.unm.edu/jimp/codesign/index.html)
 3. [ECE 595: UCMB Advanced VLSI Design](http://ece-research.unm.edu/jimp/vlsi_synthesis/index.html)
+4. [CSE567 Washington Digital Systems Design](http://courses.cs.washington.edu/courses/cse567/)
 
 
 #### Verification and Testing
