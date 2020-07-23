@@ -249,6 +249,7 @@ ___
     - Complete Graphics Course set CMU
 4. [CS348K Stanford Visual Computing Systems](http://cs348k.stanford.edu/fall18/)
     - a nice fusion of Graphics and Vision
+5. [CS248 Stanford INTERACTIVE COMPUTER GRAPHICS](http://cs248.stanford.edu/winter20/)
 ___
 
 ### AI and ML
