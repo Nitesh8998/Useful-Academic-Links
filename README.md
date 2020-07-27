@@ -199,6 +199,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
     -[Mini-Library on Quantum Information and Computation](https://www.cs.umd.edu/~xwu/mini_lib.html)
 3. [IIT KGP QC seminar](https://cse.iitkgp.ac.in/~goutam/quantumComputing/index.html)
 4. [Quantum Computing Hands on using Qiskit and IBM QC ](https://qiskit.org/textbook/preface.html)
+4. [IBM lecture notes](https://researcher.watson.ibm.com/researcher/view_person_subpage.php?id=10221https://researcher.watson.ibm.com/researcher/view_person_subpage.php?id=10221) 
 
 
 
