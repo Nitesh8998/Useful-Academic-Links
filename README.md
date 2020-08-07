@@ -255,7 +255,15 @@ ___
 
 ### AI and ML
 
-1.[Data Playground summerisation](https://harangdev.github.io/contents/)
+1. [Data Playground summerisation](https://harangdev.github.io/contents/)
+
+#### Machine Learning
+
+1.[CS229 Stanford Machine Learning](http://cs229.stanford.edu/)
+
+#### ML Application courses
+1. [CS325B Stanford Data for Sustainable Development](https://ermongroup.github.io/cs325b/)
+1. [CS325 Stanford Topics in Computational Sustainability](https://cs.stanford.edu/~ermon/cs325/)
 
 #### Deep Learning
 1. [CS230 Stanford Deep Learning](https://cs230.stanford.edu/syllabus/)
@@ -263,6 +271,7 @@ ___
 1. [11-785 CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 1. [CS236781 Technion Deep Learning](https://vistalab-technion.github.io/cs236781/lectures/)
 1. [CSC 421/2516 Toronto Neural Networks and Deep Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/)
+1. [CS236 Stanford Deep Generative Models](https://deepgenerativemodels.github.io/notes/index.html)
 
 ___
 
