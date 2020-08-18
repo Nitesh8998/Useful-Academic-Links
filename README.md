@@ -20,11 +20,12 @@ to see other courses of the faculty.
     1. [Basic](#basic)
     1. [Digital Systems](#digital-systems)
     1. [Computer Organization and Assembly Programming](#computer-organization-and-assembly-programming)
+    1. [Embedded Systems](#embedded-systems)
     1. [Computer Architecture](#computer-architecture)
     1. [Reconfigurable Computing](#reconfigurable-computing)
     1. [VLSI Design and FPGA Programming](#vlsi-design-and-fpga-programming)
     1. [Verification and Testing](#verification-and-testing)
-    1. [Embedded Systems](#embedded-systems)
+    
     1. [Hardware Security](#hardware-security)
     1. [Operating Systems](#operating-systems)
     1. [Kernel Dev and Device Drivers](#kernel-dev-and-device-drivers)
@@ -71,6 +72,13 @@ to see other courses of the faculty.
     - Has a lot of ARM related stuff
 5. [CSE 30 UCSD Computer Organization and Systems Programming](http://cseweb.ucsd.edu/~airturk/cse30.html)
 
+#### Embedded Systems
+1. [CSE 4840 Columbia Embedded System Design ](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/)
+1. [Embedded Systems with ARM Cortex-M Microcontrollers
+in Assembly Language and C ](http://web.eece.maine.edu/~zhu/book/lab.php)
+1. [15-348 CMU Embedded Systems](https://web2.qatar.cmu.edu/~srazak/courses/15348-f19/resources.html)
+1. [18-642 CMU Embedded System Software Engineering](https://course.ece.cmu.edu/~ece642/)
+
 #### Computer Architecture
 1. [Eth-Zurich CMU Onur Mutlu SAFARI](https://safari.ethz.ch/courses/)
     - Contains all the great content one needs to learn computer architecture, memory systems parallel computer architecture ...
@@ -111,8 +119,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 #### Verification and Testing
 1. [Automated Verification](http://www.taylortjohnson.com/class/eecs6315/s17/)
 
-#### Embedded Systems
-1. [CSE 4840 Columbia Embedded System Design ](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/)
+
 
 
 #### Hardware Security
