@@ -71,6 +71,8 @@ to see other courses of the faculty.
 4. [Computer Organization](https://people.cs.clemson.edu/~rlowe/cs2310/notes/)
     - Has a lot of ARM related stuff
 5. [CSE 30 UCSD Computer Organization and Systems Programming](http://cseweb.ucsd.edu/~airturk/cse30.html)
+6. [LMU Computer System Organization](https://cs.lmu.edu/~ray/classes/sp/)
+    - Good material on assembly programming with x86
 
 #### Embedded Systems
 1. [CSE 4840 Columbia Embedded System Design ](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/)
@@ -142,6 +144,8 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [Operating Systems Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 1. [CS194-24 UCB Advanced Operating Systems Structures and Implementation](https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S14/)
+1. [intermezzOS](http://intermezzos.github.io/book/first-edition/preface.html)
+    - Learning operating systems by building a hobby OS, its really fun! #RUST
 
 #### Kernel Dev and Device Drivers
 1. [Linux Kernel Development Setup](https://github.com/cirosantilli/linux-kernel-module-cheat#userland-content)
