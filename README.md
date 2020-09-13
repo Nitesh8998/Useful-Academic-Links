@@ -297,7 +297,9 @@ ___
 1. [CS246 Stanford Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 1. [CS412 Illinois An Introduction to Data Warehousing and Data Mining](https://wiki.illinois.edu/wiki/display/cs412/2.+Course+Syllabus+and+Schedule)
 1. [CS512 Illinois Principles and Algorithms"](https://wiki.illinois.edu/wiki/display/cs512/Home)
-1 [STA 325 Duke Data Mining and Machine Learning](http://www2.stat.duke.edu/~rcs46/data-mine-18.html)
+1. [STA 325 Duke Data Mining and Machine Learning](http://www2.stat.duke.edu/~rcs46/data-mine-18.html)
+1. [Statistical Inference in DataSciene](https://moderndive.com/index.html)
+    - Uses R and  Tidyverse
 ___
 
 ### Computer Vision and Image Processing
