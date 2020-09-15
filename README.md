@@ -221,6 +221,12 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 1. [Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)
 1. [CS217 Stanford Hardware Accelerators for Machine Learning ](https://cs217.stanford.edu/)
 
+
+#### Hardware Blogs/Websites/Forums
+1. [Hardware Times](https://www.hardwaretimes.com/)
+2. [Anand Tech](https://www.anandtech.com/)
+3. [Nvidia Developer Blog](https://developer.nvidia.com/blog/)
+4. [AMD Developer](https://developer.amd.com/)
 ___
 
 ### Networks, Security and Cryptography
