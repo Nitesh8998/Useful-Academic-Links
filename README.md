@@ -32,6 +32,8 @@ to see other courses of the faculty.
     1. [Compilers](#compilers)
     1. [High Performance Computing/ Parallel Computing](#high-performance-computing)
     1. [Quantum Computing and Quantum Space](#quantum-computing-and-quantum-space)
+    1. [Systems Engineering for AI ML DL ](#systems-engineering-for-ai-ml-dl)
+    1. [Hardware Blogs Websites Forums](#hardware-blogs-websites-forums)
 2. [Networks, Security and Cryptography](#networks,-security-and-cryptogrpahy)
 3. [Computer Graphics and Design](#computer-graphics-and-design)
 3. [AI and ML](#ai-and-ml)
@@ -65,6 +67,11 @@ to see other courses of the faculty.
 
 #### Computer Organization and Assembly Programming
 1. [A short Guide on x86 Assembly](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)
+    - More x86 and cheat sheets:
+        - [Shichao's Notes](https://notes.shichao.io/asm/#data-swap-xchg-and-cmpxchg)
+        - [x64 cheat sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+        - [Stanford x86 fast guide](http://web.stanford.edu/class/archive/cs/cs107/cs107.1212/guide/x86-64.html)
+        
 2. [UT Arlington Computer Organization and Assembly Language Programming](http://www.taylortjohnson.com/class/cse2312/f14/)
 2. [NTU Computer Organization and Assembly Languages](https://www.csie.ntu.edu.tw/~cyy/courses/assembly/12fall/overview/)
 3. [CS107 Computer Organization and Systems](https://web.ford.edu/class/archive/cs/cs107/cs107.1202/schedule.html)
@@ -215,14 +222,14 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 
 
 
-#### Systems Engineering for AI ML DL ...
+#### Systems Engineering for AI ML DL 
 1. [CS6886 IIT Madras Systems Engineering for Deep Learning](https://www.cse.iitm.ac.in/~pratyush/CS6886_SysDL.html)
 1. [UCB AI Sys](https://ucbrise.github.io/cs294-ai-sys-sp19/)
 1. [Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)
 1. [CS217 Stanford Hardware Accelerators for Machine Learning ](https://cs217.stanford.edu/)
 
 
-#### Hardware Blogs/Websites/Forums
+#### Hardware Blogs Websites Forums
 1. [Hardware Times](https://www.hardwaretimes.com/)
 2. [Anand Tech](https://www.anandtech.com/)
 3. [Nvidia Developer Blog](https://developer.nvidia.com/blog/)
