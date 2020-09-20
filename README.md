@@ -234,6 +234,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 2. [Anand Tech](https://www.anandtech.com/)
 3. [Nvidia Developer Blog](https://developer.nvidia.com/blog/)
 4. [AMD Developer](https://developer.amd.com/)
+5. [Wiki Chip](https://en.wikichip.org/wiki/WikiChip)
 ___
 
 ### Networks, Security and Cryptography
@@ -428,6 +429,9 @@ ___
     1. [Washington](https://courses.cs.washington.edu/courses/cse573/01au/)
     1. [Stanford Stats](http://statweb.stanford.edu/~tibs/stat315a/LECTURES/)
     1. [Poly](http://cis.poly.edu/~mleung/CS6673/s09/)
+
+1. Random Blogs
+    1. [UI Blog](https://tonsky.me/)
 ___
 
 ### Contributors
