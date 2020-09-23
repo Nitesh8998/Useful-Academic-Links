@@ -71,6 +71,7 @@ to see other courses of the faculty.
         - [Shichao's Notes](https://notes.shichao.io/asm/#data-swap-xchg-and-cmpxchg)
         - [x64 cheat sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
         - [Stanford x86 fast guide](http://web.stanford.edu/class/archive/cs/cs107/cs107.1212/guide/x86-64.html)
+1. [ASM tutorial](https://asmtutor.com/)
         
 2. [UT Arlington Computer Organization and Assembly Language Programming](http://www.taylortjohnson.com/class/cse2312/f14/)
 2. [NTU Computer Organization and Assembly Languages](https://www.csie.ntu.edu.tw/~cyy/courses/assembly/12fall/overview/)
