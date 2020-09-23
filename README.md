@@ -279,6 +279,7 @@ ___
 4. [CS348K Stanford Visual Computing Systems](http://cs348k.stanford.edu/fall18/)
     - a nice fusion of Graphics and Vision
 5. [CS248 Stanford INTERACTIVE COMPUTER GRAPHICS](http://cs248.stanford.edu/winter20/)
+6. [Comprehensive Paper Collection/Resources](http://kesen.realtimerendering.com/)
 ___
 
 ### AI and ML
