@@ -198,6 +198,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 9. [UNIFI GPU Programming Course](https://www.micc.unifi.it/bertini/download/gpu-programming-basics/2018/registro_lezioni.html)
 9. [Existing University Courses on CUDA](https://developer.nvidia.com/educators/existing-courses)
 10. [6.189 MIT Multicore Programming Primer](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm)
+11. [Udacity - Intro to Parallel Programming (CUDA) by Nvidia](https://classroom.udacity.com/courses/cs344)
 
 
 
