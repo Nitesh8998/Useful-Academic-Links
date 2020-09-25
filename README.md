@@ -434,12 +434,15 @@ ___
     1. [Washington](https://courses.cs.washington.edu/courses/cse573/01au/)
     1. [Stanford Stats](http://statweb.stanford.edu/~tibs/stat315a/LECTURES/)
     1. [Poly](http://cis.poly.edu/~mleung/CS6673/s09/)
+1. GRE Blogs/Youtube Channels
+    1. [20 days preparation plan](https://medium.com/@mihir19297/ace-gre-in-20-days-9bd4b5c1abb2)
 
 1. Random Blogs
     1. [UI Blog](https://tonsky.me/)
+
 ___
 
 ### Contributors
 1. [Sinduja](https://github.com/Sinduja-S)
-2. [Sahithi Nadyala](https://github.com/blackpanther409)
+2. [Sahithi Nandyala](https://github.com/blackpanther409)
 3. [Pratyush](https://github.com/PratyushVM)
