@@ -124,6 +124,7 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 2. [ECE 522: UCMB Hardware/Sofware Codesign with FPGAs](http://ece-research.unm.edu/jimp/codesign/index.html)
 3. [ECE 595: UCMB Advanced VLSI Design](http://ece-research.unm.edu/jimp/vlsi_synthesis/index.html)
 4. [CSE567 Washington Digital Systems Design](http://courses.cs.washington.edu/courses/cse567/)
+5. Xilinx Vitis Workshop(https://xilinx.github.io/xup_compute_acceleration/index.html)
 
 
 #### Verification and Testing
