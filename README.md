@@ -118,13 +118,15 @@ CS252 Graduate Computer Architecture](http://www-inst.eecs.berkeley.edu/~cs152/s
 3. [CS294-3 UCB Reconfigurable Computing](http://www-inst.eecs.berkeley.edu/~cs294-3/sp04/)
 4. [15-828/18-847 CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15828-s98/www/index.html)
 
+
 #### VLSI Design and FPGA Programming
 1. [ECE 338: UCMB Intermediate Logic Design](http://ece-research.unm.edu/jimp/vhdl_fpgas/index.html)
     - Stresses on VHDL
 2. [ECE 522: UCMB Hardware/Sofware Codesign with FPGAs](http://ece-research.unm.edu/jimp/codesign/index.html)
 3. [ECE 595: UCMB Advanced VLSI Design](http://ece-research.unm.edu/jimp/vlsi_synthesis/index.html)
 4. [CSE567 Washington Digital Systems Design](http://courses.cs.washington.edu/courses/cse567/)
-5. Xilinx Vitis Workshop(https://xilinx.github.io/xup_compute_acceleration/index.html)
+5. [Xilinx Vitis Workshop](https://xilinx.github.io/xup_compute_acceleration/index.html)
+6. [PYNQ Workshop](https://github.com/Xilinx/PYNQ_Workshop)
 
 
 #### Verification and Testing
