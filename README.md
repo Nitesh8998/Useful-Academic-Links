@@ -294,6 +294,7 @@ ___
 #### Machine Learning
 
 1.[CS229 Stanford Machine Learning](http://cs229.stanford.edu/)
+    - [Cheat Sheet by Andrew](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 
 #### ML Application courses
 1. [CS325B Stanford Data for Sustainable Development](https://ermongroup.github.io/cs325b/)
